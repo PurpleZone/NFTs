@@ -1,0 +1,16 @@
+{
+   "attributes" : [
+      {
+         "trait_type" : "mutable key",
+         "value" : "Qmad1CJThM8zYym23da8s89MFw8dcuSdRmhyySTgtNVbPu"
+      }
+   ],
+   "desc" : "This token is used to exchange message with any wallet addresse",
+   "mutkey" : "Qmad1CJThM8zYym23da8s89MFw8dcuSdRmhyySTgtNVbPu",
+   "name" : "HumanX Token",
+   "symb" : "humanx",
+   "telegram" : "https://t.me/cryptolake2",
+   "tokenid" : "HMnX3nmicC3Te2xChzKS1rwwfBqL9TVjNRwzLCvd344C",
+   "unit" : "X",
+   "value" : "1"
+}
