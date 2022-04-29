@@ -1,7 +1,7 @@
 --- # HumanXchange token
 name: "HumanX Token"
 desc: "This token is used to exchange message with any wallet addresse"
-symb: humanx
+symb: humanX
 tokenid: HMnX3nmicC3Te2xChzKS1rwwfBqL9TVjNRwzLCvd344C
 mutkey: 'Qmad1CJThM8zYym23da8s89MFw8dcuSdRmhyySTgtNVbPu'
 value: 1

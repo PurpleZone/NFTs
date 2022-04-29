@@ -1,0 +1,7 @@
+--- # generic token
+name: "Colored Generic Token"
+desc: "This generic token is the equivalent of color coin the bitcoin network: it carries a color: 32B hash as an address"
+symb: colorcoin
+tokenid: C1RcPUJHx1Mon7RqDck2KUco8jkYraMjNCdA3K2NP7Wk
+value: 1
+unit: j
