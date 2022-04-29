@@ -1,0 +1,22 @@
+// script to update dynamic logo parts
+ const symb = 'btc-g';
+ const ticker = 'btcg';
+ const gw = 'https://ipfs.safewatch.care';
+ const immutable = 'QmWJ8W62fgWbxYVH24tbAHJu9YaJiA9HRyxSWZqaVxaF1V';
+ let path = 'https://raw.githubusercontent.com/PurpleZone/NFTs/'+ticker
+     path = location.pathname.replace(/\/[^/]*$/,'');
+     path = gw+'/ipfs/'+immutable;
+ console.log('path:',path);
+ fetch(path+`/${symb}.json`).then(resp => resp.json()).
+   then(cfg => {
+   console.log('cfg:',cfg);
+   document.getElementById('clickable').addEventListener('click',
+        function() { location.href = path+'/factsheet.html'; }
+        );
+     if (typeof(cfg.name) != 'undefined') {
+       document.getElementById('co2weight').innerHTML = `${cfg.fprint}`;
+     }
+     return cfg;
+   }).
+   catch(console.error);
+
