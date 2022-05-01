@@ -2,7 +2,7 @@
  const symb = 'btc-g';
  const ticker = 'btcg';
  const gw = 'https://ipfs.safewatch.care';
- const immutable = 'QmVAMzDnL4JVdzYf6intQmmS4jgJ2xmLtTtF2uRA1HPZr9';
+ const immutable = 'QmQ45Hvq4dR4Jt3e1hsySDPVFvsiUaAahECD8iy9xhCgis';
  let path = 'https://raw.githubusercontent.com/PurpleZone/NFTs/'+ticker
      path = location.pathname.replace(/\/[^/]*$/,'');
      path = gw+'/ipfs/'+immutable;
