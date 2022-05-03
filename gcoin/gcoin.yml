@@ -1,8 +1,8 @@
 ---
 name: "Green Coin"
 symb: "gcoin"
-tokenid: CarbonRRCJA2wMpHY2P4iP9KS4DScun5sdbv3PvNa4aZ
 tokenid: GcoinFPXjY1iWwLCgAuYm6Eks18bP4KKP3FUVg9G53X7
+tokenid: CarbonRRCJA2wMpHY2P4iP9KS4DScun5sdbv3PvNa4aZ
 desc: 'The only way to get carbon negative cryptocurrency is using gcoin: a CO2 accountancy NFT'
 footprint: "4" # in tons
 level: "70%"
