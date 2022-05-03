@@ -72,9 +72,9 @@
        id="droplet"
        transform="translate(-40.622387,-3.0283466)">
       <path
-         style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:0.943916;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.195381,67.322195 c -1.06404,4.755285 -5.04969,7.159474 -3.78463,10.737345 0.63659,1.800407 2.977419,3.19642 4.87745,3.00515 1.692459,-0.17037 3.40367,-1.818465 3.723889,-3.489061 0.710891,-3.70863 -2.981779,-5.068771 -4.816709,-10.253434 z"
-         id="border" />
+         id="droplet-bg" />
       <path
          style="fill:#00f0ff;stroke:#75f0ff;stroke-width:0.098919;stroke-opacity:1"
          d="m 63.211955,76.988023 c 0.02735,-1.668571 0.704654,-2.932205 1.716259,-4.644528 l 5.214808,0.101309 c 1.009557,1.376757 2.334045,3.475982 1.830549,5.264275 -0.47778,1.696955 -2.325468,3.381748 -4.088202,3.355292 -2.066904,-0.03102 -4.707292,-2.009492 -4.673414,-4.076348 z"
@@ -89,9 +89,9 @@
          clip-path="url(#clipPath27260)"
          transform="translate(-54.331179,-20)" />
       <path
-         style="opacity:0.943916;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.195381,67.322195 c -1.06404,4.755285 -5.04969,7.159474 -3.78463,10.737345 0.63659,1.800407 2.977419,3.19642 4.87745,3.00515 1.692459,-0.17037 3.40367,-1.818465 3.723889,-3.489061 0.710891,-3.70863 -2.981779,-5.068771 -4.816709,-10.253434 z"
-         id="droplet-bg" />
+         id="border" />
     </g>
     <g
        id="CO2"
