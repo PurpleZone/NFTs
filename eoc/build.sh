@@ -6,14 +6,22 @@ else
 symb=eo-coin
 fi
 echo symb: $symb
+# -------------------------------------------------------
 if ! ipfs key list | grep -w $symb >/dev/null; then
 key=$(ipfs key gen -t rsa -s 3072 --ipns-base b58mh $symb)
 else
 key=$(ipfs key list -l --ipns-base b58mh| grep -w $symb | cut -d' ' -f1)
 fi
 echo key: $key
+# -------------------------------------------------------
 
 cat $symb.yml | json_xs -f yaml -t json > $symb.json
+# -------------------------------------------------------
+find . -name '*~1' -delete
+qm=$(ipfs add -w $symb.* factsheet.html -Q)
+sed -e "s/const immutable = '.*'/const immutable = '$qm'/" $symb.js > $symb.js~
+if [ ! -s $symb.js~ ]; then mv $symb.js~ $symb.js; fi
+# -------------------------------------------------------
 jsinc.pl $symb-tmpl.svg  > $symb.svg
 inkscape --without-gui ${symb}.svg -w 256 -o $symb.png
 
