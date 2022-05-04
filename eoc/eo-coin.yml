@@ -1,8 +1,11 @@
 ---
 name: "Eco Organic Coin"
-symbol: EOC
+symbol: eo-coin
+ticker: EOC
+tokenid: EoC7RvPmwbXL9nAmCwfKZTd7aTiC9VzTS6J4j8hLNCfV
+desc: 'The most Sustainable NFT with on 61mg CO2eq'
 attributes:
-  {trait_type: mutkey, value: QmVYhabrNidUzhLmDpbB28JxK12mUbagDuEj8VnwdMugqr}
-  {trait_type: footprint, value: 61.08mg}
-  {trait_type: telegram, value: @cryptolake2}
+  - {trait_type: mutkey, value: QmVYhabrNidUzhLmDpbB28JxK12mUbagDuEj8VnwdMugqr}
+  - {trait_type: footprint, value: 61.08mg}
+  - {trait_type: telegram, value: "@cryptolake2"}
 
