@@ -1,19 +1,25 @@
 ---
+title: Eco-Organic Coin
 ---
+## Eco-Organic Coin
 
-Eco-Organic Coin: 61.08mg carbon footprint.
+The [eo-coin][1] has a carbon footprint of 61.08mg CO2eq
 
-sha2 hashing 23 J
-drawing with inkscape: 3628 J
-token creation: 1837 J
-token account creation : 1837 J
-token minting : 1837 J
+Here are the details:
 
-total energy: 9162 Joules
+- sha2 hashing: 23 J
+- drawing with inkscape: 3628 J
+- token creation: 1837 J
+- token account creation: 1837 J
+- token minting: 1837 J
+- total energy: 9162 Joules
 
-(hydroelectric energy at 24g CO2 per kWh)
+(with hydroelectric energy at 24g CO2 per kWh)
 
 
+### hashing cost:
+
+1.56s at 15W (18% CPU usage + misc.)
 ```
 added QmWtgzZzRqrtzm9So9MK2cZ3MFg1cCrmcjzD8hR1vkwhes eoc/README.md
 added QmPUkFe3TqhpeXsyiEUxacHVBSTzkUKGyiaeEW9NAWa8zq eoc/eoc-nft.png
@@ -24,3 +30,5 @@ real	0m1.560s
 user	0m0.283s
 sys	0m0.098s
 ```
+
+
