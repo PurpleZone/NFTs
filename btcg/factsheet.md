@@ -5,12 +5,19 @@ tokenid: BTCGZYMqyfA8WBKNgwcpZn21ruNBvHvbfnrYNsd4xtTZ
 source: hydroelectricity
 mining: 2.454 # tons per mining (hydro)
 emiskg: 2454 # kg per mine
-dam: 24  # g per kWh
+dam: 24 # g per kWh
+elec: 650 # g per kWh (conventional)
 trees: 78 # planted tree
+cpty: 21 # kg carbon sequestred per tree per year
 cpt: 314 # kg carbon sequestred per tree (lifetime)
-reminder: 48 # emiskg - trees * cpt
-energypc: 100 # MWh per btc
+reminder: 816 # after 1yr: emiskg - trees * cpty
+percent: 66%
+energypc: 100.168 # MWh per btc
 ewaste: 32 # kg of ewaste
+cpu: 66W # 19V * 3.43V = 66W
+vanity: 36mg C02 # 5412 J
+mint: 24mg # 2tx : 1837 * 2 * 2/300 mg
+solanatx: 1837 J # (1KJ = 6.6mg of C02)
 ...
 ### Here are the (immutable) facts about the BTC-G coin
 
@@ -22,7 +29,7 @@ ewaste: 32 # kg of ewaste
 <hr>
 -->
 
-[![BTCG](https://cdn.jsdelivr.net/gh/PurpleZone/NFTs/btcg/btc-g.svg)][1]
+[![BTCG](btc-g.svg)][1]
 <style>img[alt=BTCG] { max-width: 24vw; float: right }</style>
 
 This [BTC-G][1] coin is a wrapped bitcoin, minted to track and negate the emission
@@ -37,9 +44,14 @@ so please plant 1 to 3 tree if you want to move the bitcoin arround)
 [1]: https://explorer.solana.com/address/$tokenid$?cluster=devnet
 [2]: https://www.blockchain.com/btc/address/$wallet$
 
+<!--
+[svg]: https://cdn.jsdelivr.net/gh/PurpleZone/NFTs/btcg/btc-g.svg
+[svg]: https://raw.githubusercontent.com/PurpleZone/NFTs/master/btcg/btc-g.svg
+-->
+
 #### CARBON NEUTRAL
 
-Carbon Footprint per Green Bitcoin: $emiskg$ - $trees$ x $cpt$ = $reminder$kg
+Carbon Footprint per Green Bitcoin: $emiskg$ - $trees$ x $cpty$ = $reminder$kg after 1yr
 <br>Energy source: $source$
 
 
@@ -62,19 +74,21 @@ see the metadata: [here](btc-g.json)
 <!--
   old calculation:
   4.608 tCO₂-eq per Bitcoin
-  100,000 kwh per coin
+  100,168 kwh per coin
   Dam 24 gCO₂-eq/kWh
+  hydro: 27.2 - 226g / kWh
+  (conventional 650g / kWh see https://www.coindesk.com/markets/2014/04/07/what-is-the-carbon-footprint-of-a-bitcoin/ )
 
   4.608 tCO₂-eq per Bitcoin
   Equivalent Trees Planted: 144 
-  (320kg / tree)
+  (32kg / tree, over 1st 18months)
   
   new calculation: 
   Carbon Footprint per Bitcoin: 0.00
   Energy source: hydroelectricity
   Total Carbon Used to produce Bitcoin: 2.454 tCO₂-eq
   Equivalent Trees Planted: 78
-  (314kg/ tree)
+  (21kg/ tree / year (18months)
 
   (Yannick's rules ~400kg C during life of a tree)
 
@@ -82,6 +96,9 @@ see the metadata: [here](btc-g.json)
   https://ceepr.mit.edu/wp-content/uploads/2021/09/2018-018.pdf
   
   0.65 tons CO2 per MWh https://www.coindesk.com/markets/2014/04/07/what-is-the-carbon-footprint-of-a-bitcoin/
+  
+  
+  100MWh per coin == 65tons C02 per coins
   
   Carlson: 
   10 TH/sec (10,000 GH/sec) make 1 bitcoin per day at the current
