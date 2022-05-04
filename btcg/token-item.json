@@ -1,0 +1,22 @@
+    {
+      "chainId": 103,
+      "address": "BTCGZYMqyfA8WBKNgwcpZn21ruNBvHvbfnrYNsd4xtTZ",
+      "symbol": "btc-g",
+      "name": "Green Bitcoin",
+      "decimals": 8,
+       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/btcg/btc-g.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "description": "Greening cryptocurrencies one coin at a time",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmUs6X2QHrPSAW9mZYtHGNCDjMDWTk7cg3EiEQ1Ao4PvL9/whitepaper.pdf",
+         "telegram": "https://t.me/cryptolake2",
+         "imageUrl": "https://bafybeiakx66r7u5u5sxi24b25k4y5qm6zhpyuetocphl7kfcs4yij6zjgy.ipfs.nftstorage.link/?ext=svg",
+         "website": "https://PurpleZone.github.io/NFTs/btcg/"
+      }
+    }

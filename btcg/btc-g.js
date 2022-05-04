@@ -19,14 +19,15 @@
      let p = 100.0;
      if (typeof(cfg.level) != 'undefined') {
        p =  parseFloat(cfg.level.replace('%$',''));
+       console.log('p:',p+'%');
        let y =  93 - 36 * p / 100;
        console.log('y:',y);
+       document.getElementById('gauge').setAttribute('height',17.4);
        document.getElementById('gauge').setAttribute('y',y);
        console.log('levelid:',document.getElementById('gauge'));
      }
      if (typeof(cfg.footprint) != 'undefined') {
-       document.getElementById('gauge').setAttribute('height',17.4);
-       let co2 = parseFloat(cfg.footprint.replace('kg','') * (100 - p ) / 100;
+       let co2 = parseFloat(cfg.footprint.replace('kg','')) * (100 - p ) / 100;
        document.getElementById('co2weight').innerHTML = `${co2}kg`;
      }
 

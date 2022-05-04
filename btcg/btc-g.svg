@@ -38,11 +38,11 @@
     </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath27260">
+       id="clipPath16543">
       <path
-         style="fill:none;stroke:#75f0ff;stroke-width:0.098919;stroke-opacity:1"
-         d="m 117.54313,96.988016 c 0.0274,-1.668571 0.70466,-2.932202 1.71626,-4.644522 l 5.38782,0.353261 c 1.00956,1.376759 2.14739,3.322111 1.65754,5.01232 -0.49073,1.693259 -2.32547,3.381755 -4.0882,3.355295 -2.0669,-0.031 -4.70729,-2.009495 -4.67342,-4.076354 z"
-         id="path27262" />
+         style="fill:none;stroke:#9f00ca;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 67.19538,67.322194 c -1.064039,4.755285 -5.049689,7.159475 -3.784629,10.737345 0.63659,1.800408 2.977419,3.196421 4.877451,3.005151 1.692458,-0.170371 3.403669,-1.818466 3.723889,-3.489061 0.71089,-3.70863 -2.98178,-5.068771 -4.816711,-10.253435 z"
+         id="path16545" />
     </clipPath>
   </defs>
   <circle
@@ -82,12 +82,11 @@
       <rect
          style="opacity:0.9625;fill:#003030;fill-opacity:1;stroke:#75f0ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="gauge"
-         width="11.990604"
-         height="7.3931451"
-         x="116.13139"
-         y="93.800652"
-         clip-path="url(#clipPath27260)"
-         transform="translate(-54.331179,-20)" />
+         width="9.5723953"
+         height="14.329852"
+         x="62.77177"
+         y="66.863945"
+         clip-path="url(#clipPath16543)" />
       <path
          style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.195381,67.322195 c -1.06404,4.755285 -5.04969,7.159474 -3.78463,10.737345 0.63659,1.800407 2.977419,3.19642 4.87745,3.00515 1.692459,-0.17037 3.40367,-1.818465 3.723889,-3.489061 0.710891,-3.70863 -2.981779,-5.068771 -4.816709,-10.253434 z"
@@ -157,14 +156,15 @@ console.log('Running btc-g.js script from',location.pathname);
      let p = 100.0;
      if (typeof(cfg.level) != 'undefined') {
        p =  parseFloat(cfg.level.replace('%$',''));
+       console.log('p:',p+'%');
        let y =  93 - 36 * p / 100;
        console.log('y:',y);
+       document.getElementById('gauge').setAttribute('height',17.4);
        document.getElementById('gauge').setAttribute('y',y);
        console.log('levelid:',document.getElementById('gauge'));
      }
      if (typeof(cfg.footprint) != 'undefined') {
-       document.getElementById('gauge').setAttribute('height',17.4);
-       let co2 = parseFloat(cfg.footprint.replace('kg','') * (100 - p ) / 100;
+       let co2 = parseFloat(cfg.footprint.replace('kg','')) * (100 - p ) / 100;
        document.getElementById('co2weight').innerHTML = `${co2}kg`;
      }
 
