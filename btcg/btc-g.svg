@@ -157,7 +157,7 @@ console.log('Running btc-g.js script from',location.pathname);
      if (typeof(cfg.level) != 'undefined') {
        p =  parseFloat(cfg.level.replace('%$',''));
        console.log('p:',p+'%');
-       let y =  93 - 36 * p / 100;
+       let y =  68 + 13 * p / 100;
        console.log('y:',y);
        document.getElementById('gauge').setAttribute('y',y);
        console.log('levelid:',document.getElementById('gauge'));
