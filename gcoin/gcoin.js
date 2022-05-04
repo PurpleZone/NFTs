@@ -3,7 +3,7 @@
  const ticker = 'gcoin';
  const gw = 'https://ipfs.safewatch.care';
  const mutable = 'QmTo1AnNH7Snu37Dotphw2fX54u1S5VLFpnnERN7GbyUrW';
- let path = 'https://raw.githubusercontent.com/PurpleZone/NFTs/'+ticker
+ let path = 'https://raw.githubusercontent.com/PurpleZone/NFTs/master/'+ticker
      //path = gw+'/ipns/'+mutable;
      //path = location.pathname.replace(/\/[^/]*$/,'');
  console.log('path:',path);
