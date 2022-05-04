@@ -3,8 +3,9 @@
 ## Token and NFT catalog
 
 - Green Bitcoin  [#BTC-G][11] ([BTCGZYMqyfA8WBKNgwcpZn21ruNBvHvbfnrYNsd4xtTZ][12])
-<br> ![BTCG](https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/btcg/btc-g.svg)
+<br> ![BTCG](https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/btcg/btc-g.svg)
 
+[11]:  https://solscan.io/token/BTCGZYMqyfA8WBKNgwcpZn21ruNBvHvbfnrYNsd4xtTZ?cluster=devnet
 [12]:  https://explorer.solana.com/address/BTCGZYMqyfA8WBKNgwcpZn21ruNBvHvbfnrYNsd4xtTZ?cluster=devnet
 
 - Green Coin ([#gcoin][1]: [CarbonRRCJA2wMpHY2P4iP9KS4DScun5sdbv3PvNa4aZ][2]) 
@@ -33,10 +34,10 @@
   
   
 [5]: ~
-[6]: https://explorer.solana.com/token/PHXCEm9BjgB5nxySKvGVb7naLS2fcU2DqdU529sGa8G
+[6]: https://explorer.solana.com/address/PHXCEm9BjgB5nxySKvGVb7naLS2fcU2DqdU529sGa8G
 
-[7]: https://explorer.solana.com/token/D17PtjrzxNANtGDacNMRNwxtBU59phYCQXLMJWL5K1DW
-[8]: https://explorer.solana.com/token/D17PtjrzxNANtGDacNMRNwxtBU59phYCQXLMJWL5K1DW
+[7]: https://solscan.io/token/D17PtjrzxNANtGDacNMRNwxtBU59phYCQXLMJWL5K1DW?cluster=devnet
+[8]: https://explorer.solana.com/address/D17PtjrzxNANtGDacNMRNwxtBU59phYCQXLMJWL5K1DW?cluster=devnet
 
 
 
