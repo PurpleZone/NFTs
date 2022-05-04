@@ -22,7 +22,6 @@
        console.log('p:',p+'%');
        let y =  93 - 36 * p / 100;
        console.log('y:',y);
-       document.getElementById('gauge').setAttribute('height',17.4);
        document.getElementById('gauge').setAttribute('y',y);
        console.log('levelid:',document.getElementById('gauge'));
      }

@@ -6,7 +6,7 @@
    height="86.111008mm"
    viewBox="0 0 86.014913 86.111009"
    version="1.1"
-   id="svg1034"
+   id="btcg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
@@ -159,7 +159,6 @@ console.log('Running btc-g.js script from',location.pathname);
        console.log('p:',p+'%');
        let y =  93 - 36 * p / 100;
        console.log('y:',y);
-       document.getElementById('gauge').setAttribute('height',17.4);
        document.getElementById('gauge').setAttribute('y',y);
        console.log('levelid:',document.getElementById('gauge'));
      }
