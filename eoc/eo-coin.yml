@@ -2,6 +2,7 @@
 name: "Eco Organic Coin"
 symbol: eo-coin
 ticker: EOC
+repo: eoc
 tokenid: EoC7RvPmwbXL9nAmCwfKZTd7aTiC9VzTS6J4j8hLNCfV
 desc: 'The most Sustainable NFT with on 61mg CO2eq'
 attributes:
