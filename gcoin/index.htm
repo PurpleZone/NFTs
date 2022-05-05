@@ -151,22 +151,22 @@ sequestred <span id=p>x%</span>
 <br>duration <span id=t>n days</span>
 
 <script>
-  document.getElementsByName('p')[0].addEventListener('change',
-      function() { 
-          let n = document.getElementsByName('n')[0].value
-       console.log('n: %s',n);
-          let p = document.getElementsByName('p')[0].value
-          document.getElementById('p').innerText = p + '%';
-          let y =  3+ 85 * p / 100;
-          let w =  3000 * ( 100 - p) / 100;
-          let t =  w / 21 * 365.25 / n;
-       console.log('y: %s, w: %s',y,w);
-       document.getElementById('level').setAttribute('y',y);
-          document.getElementById('co2weight').innerHTML = `${w.toFixed(1)}kg`;
-          document.getElementById('t').innerHTML = `${t.toFixed(1)}day`;
+  document.getElementsByName('n')[0].addEventListener('change',update);
+  document.getElementsByName('p')[0].addEventListener('change',update);
+     function update() { 
+           let n = document.getElementsByName('n')[0].value
+           console.log('n: %s',n);
+           let p = document.getElementsByName('p')[0].value
+           document.getElementById('p').innerText = p + '%';
+           let y =  3+ 85 * p / 100;
+           let w =  3000 * ( 100 - p) / 100;
+           let t =  w / 21 * 365.25 / n;
+           console.log('y: %s, w: %s',y,w);
+           document.getElementById('level').setAttribute('y',y);
+           document.getElementById('co2weight').innerHTML = `${w.toFixed(1)}kg`;
+           document.getElementById('t').innerHTML = `${t.toFixed(1)}day`;
 
         }
-      );
 
   let p = document.getElementsByName('p')[0].value
   console.log('p:',p);
