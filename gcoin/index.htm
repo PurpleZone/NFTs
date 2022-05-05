@@ -147,8 +147,17 @@ input { orient: vertical }
 sequestred <span id=p>x%</span>
 <br>
 <input type=range name=p min=0 max=100 step=0.01>
-<br>trees: <input type=number name=n value=50 style="width:3em"> (planted)
+<br>trees: <input type=number name=n value=78 style="width:3em"> (planted)
 <br>duration <span id=t>n days</span> left until zero-carbon
+
+<p>Place your order on our telegram: <a href=https://t.me/cryptolake2>@cryptolake2</a>
+to get some "green bitcoin" on Solana:
+  <a href="https://explorer.solana.com/address/BTCGZYMqyfA8WBKNgwcpZn21ruNBvHvbfnrYNsd4xtTZ?cluster=devnet">
+  BTCGZYMqyfA8WBKNgwcpZn21ruNBvHvbfnrYNsd4xtTZ?cluster=devnet</a>
+
+<!--
+   https://explorer.solana.com/address/CarbonRRCJA2wMpHY2P4iP9KS4DScun5sdbv3PvNa4aZ?cluster=devnet
+-->
 
 <script>
   document.getElementsByName('n')[0].addEventListener('change',update);
@@ -164,7 +173,7 @@ sequestred <span id=p>x%</span>
            console.log('y: %s, w: %s',y,w);
            document.getElementById('level').setAttribute('y',y);
            document.getElementById('co2weight').innerHTML = `${w.toFixed(1)}kg`;
-           document.getElementById('t').innerHTML = `${t.toFixed(1)}day`;
+           document.getElementById('t').innerHTML = `${t.toFixed(1)}days`;
 
         }
 
