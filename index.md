@@ -19,22 +19,23 @@
 <br> ![phxvit](https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/vitamins/vitamins.svg)
 
 [3]: vitamins
-[4]: https://explorer.solana.com/address/PVit7qYXHVt5VExukg9DQgPa2p4QRGfRmU7z8U6e5xq
+[4]: https://explorer.solana.com/address/PVit7qYXHVt5VExukg9DQgPa2p4QRGfRmU7z8U6e5xq?cluster=devnet
 [4b]: https://solscan.io/token/PVit7qYXHVt5VExukg9DQgPa2p4QRGfRmU7z8U6e5xq
 
 - distributed messaging: [#humanX][9] : [HMnX3nmicC3Te2xChzKS1rwwfBqL9TVjNRwzLCvd344C][10]
+<br> ![humanx](https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/humanX/humanx.svg)
 
 [9]: humanX
-[10]: https://explorer.solana.com/address/HMnX3nmicC3Te2xChzKS1rwwfBqL9TVjNRwzLCvd344C
-<br> ![humanx](https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/humanX/humanx.svg)
+[10]: https://explorer.solana.com/address/HMnX3nmicC3Te2xChzKS1rwwfBqL9TVjNRwzLCvd344C?cluster=devnet
 
 - PHX shares : [PHXCEm9BjgB5nxySKvGVb7naLS2fcU2DqdU529sGa8G][6]
+<br> ![humanx](https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/humanX/humanx.svg)
 
 [5]: phxcoin
+<br> ![phxcoin](https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/phxcoin/phxcoin.svg)
 [6]: https://explorer.solana.com/address/PHXCEm9BjgB5nxySKvGVb7naLS2fcU2DqdU529sGa8G
-<br> ![phxcoin](https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/phxcoin/phxcoin.svg)
 
-- WGBTC GreenBitCoin ([WGBTC][7] [D17PtjrzxNANtGDacNMRNwxtBU59phYCQXLMJWL5K1DW][8]
+- WGBTC GreenBitCoin ([WGBTC][7] [D17PtjrzxNANtGDacNMRNwxtBU59phYCQXLMJWL5K1DW][8])
 <br> ![wgbtc](https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/wgbtc/wgbtc.svg)
   
 [7]: https://solscan.io/token/D17PtjrzxNANtGDacNMRNwxtBU59phYCQXLMJWL5K1DW?cluster=devnet

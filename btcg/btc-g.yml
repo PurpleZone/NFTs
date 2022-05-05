@@ -19,6 +19,7 @@ attributes:
   - {trait_type: "trees", value: "78"}
   - {trait_type: "rate", value: "21kg/tree.yr"}
   - {trait_type: "sequestred", value: "66%"}
+  - {trait_type: "mint", value: "61mg"}
   - {trait_type: "telegram", value: "@cryptolake2"}
   - {trait_type: "operating fees", value: "0.3%"}
 

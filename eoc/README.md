@@ -1,5 +1,10 @@
 ---
 title: Eco-Organic Coin
+galon: 121_320_000J / 4.54609L
+google: 1080J
+mscar: 7/4.54609 * 80/100 * 9162 / 121320000 * 3600 # 7L/100km 80km/h
+treetime: 3600*365.25*24/21000 * 61.08/1000 = 91.79s
+co2: 9162 * 24/3600 = 61.08mg
 ---
 ## Eco-Organic Coin
 
