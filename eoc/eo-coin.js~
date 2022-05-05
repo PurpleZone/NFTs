@@ -2,7 +2,7 @@
  const symb = 'eo-coin';
  const ticker = 'eoc';
  const gw = 'https://ipfs.safewatch.care';
- const immutable = 'Qmdu2F7kGrHXC4FDocvRAfMPQx77SzdAJNy9t9CV8vpTb9';
+ const immutable = 'QmTkuZvdG33pZxaK7VDToTwKTEivWXJA4yhfvAVQL8P1Tj';
  const mutable = 'QmVYhabrNidUzhLmDpbB28JxK12mUbagDuEj8VnwdMugqr';
  let path = 'https://raw.githubusercontent.com/PurpleZone/NFTs/'+ticker
      path = 'https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/'+ticker
