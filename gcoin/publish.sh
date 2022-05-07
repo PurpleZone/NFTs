@@ -9,7 +9,7 @@ echo prev: $qmprev
 find . -name '*~1' -delete
 pandoc -t html -o factsheet.html factsheet.md
 pandoc -t html -o README.html README.md
-qm=$(ipfs add -w README.md gcoin.* *.pdf *.htm* -Q)
+qm=$(ipfs add -w README.md gcoin.* *.pdf *.htm* *.png -Q)
 echo url: https://ipfs.safewatch.xyz/ipfs/$qm
 
 ipfs name publish --key=$symb $qm --ipns-base b58mh --allow-offline

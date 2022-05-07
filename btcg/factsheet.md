@@ -6,6 +6,8 @@ source: hydroelectricity
 mining: 2.454 # tons per mining (hydro)
 emiskg: 2454 # kg per mine
 dam: 24 # g per kWh
+coal: 690 # g per kWh
+france: 90 # g per kWh
 elec: 650 # g per kWh (conventional)
 trees: 78 # planted tree
 cpty: 21 # kg carbon sequestred per tree per year
@@ -16,7 +18,7 @@ energypc: 100.168 # MWh per btc
 ewaste: 32 # kg of ewaste
 cpu: 66W # 19V * 3.43V = 66W
 vanity: 36mg C02 # 5412 J
-mint: 24mg # 2tx : 1837 * 2 * 2/300 mg
+mint: 24mg # SOL 2tx : 1837 * 2 * 2/300 mg
 solanatx: 1837 J # (1KJ = 6.6mg of C02)
 ...
 ### Here are the (immutable) facts about the BTC-G coin
@@ -152,4 +154,25 @@ see the metadata: [here](btc-g.json)
  https://www.prnewswire.com/news-releases/binance-charity-launches-nft-tree-planting-project-tree-millions-to-plant-10m-trees-worldwide-301380558.html
  
  https://fortune.com/2021/05/16/elon-musk-tesla-bitcoin-mining-fossil-fuels-sustainable-green/?queryly=related_article
+ 
+ https://www.eia.gov/coal/production/quarterly/co2_article/co2.html
+ 
+ https://www.theguardian.com/commentisfree/2021/aug/23/big-oil-coined-carbon-footprints-to-blame-us-for-their-greed-keep-them-on-the-hook
+ 
+ flaring: https://news.stanford.edu/2018/08/30/country-ranking-oil-production-emissions/
+ 
+ https://ourworldindata.org/emissions-by-fuel
+ 
+ https://www.iea.org/data-and-statistics/charts/annual-co2-emissions-from-coal-fired-power-plants-2000-2050
+
+ https://www.volker-quaschning.de/datserv/CO2-spez/index_e.php
+ 
+ https://www.rte-france.com/en/eco2mix/co2-emissions
+ 
+ https://www.umweltbundesamt.de/en/press/pressinformation/co2-emissions-per-kilowatt-hour-of-electricity-in
+ 
+ https://www.eea.europa.eu/ims/greenhouse-gas-emission-intensity-of-1
+ 
+ wallet: https://coinsem.com/4-best-solana-mobile-wallet/
 -->
+

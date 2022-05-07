@@ -1,0 +1,22 @@
+    {
+      "chainId": 103,
+      "address": "C1RcPUJHx1Mon7RqDck2KUco8jkYraMjNCdA3K2NP7Wk",
+      "symbol": "colorcoin",
+      "name": "Colored Generic Token",
+      "decimals": 8,
+       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/colorcoin/colorcoin.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "description": "This generic token is the equivalent of color coin the bitcoin network: it carries a color: 32B hash as an address",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmTSW3uzsinLRN6TGt1igwuY6aMcMidmRpUR6fhhSG7Euv/whitepaper.pdf",
+         "telegram": "https://t.me/cryptolake2",
+         "imageUrl": "https://bafybeihkbjkjiqsvdez4jxiwiqbaeamp7gvidia4ss6htobcqsydpfmx3u.ipfs.nftstorage.link/?ext=svg",
+        "website": "https://ipfs.safewatch.xyz/ipns/QmTSW3uzsinLRN6TGt1igwuY6aMcMidmRpUR6fhhSG7Euv/#colorcoin"
+      }
+    }
