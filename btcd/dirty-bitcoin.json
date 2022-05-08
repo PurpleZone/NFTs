@@ -1,0 +1,27 @@
+{
+   "attributes" : [
+      {
+         "trait_type" : "mutable key",
+         "value" : null
+      },
+      {
+         "trait_type" : "footprint",
+         "value" : "2.454tons"
+      },
+      {
+         "trait_type" : "telegram",
+         "value" : "@cryptolake2"
+      },
+      {
+         "trait_type" : "certificate key",
+         "value" : "CertR4txfmRdaKL3X2KcxvP9Vu62D73a4bZePquxABdx"
+      }
+   ],
+   "description" : "Each bitcoin entering our economical zone has its footpring tracked, we use a spl token for this so we can account for its C02 emission",
+   "name" : "Dirty Coin",
+   "repo" : "btcd",
+   "slug" : "dirty-bitcoin",
+   "symbol" : "btc-d",
+   "ticker" : "BTC-D",
+   "tokenid" : "BTCdSsSQeS44k2kgpo8URUZWrACHvHAdoLewt3Q3EGU6"
+}
