@@ -1,0 +1,20 @@
+{
+"price": "",
+"number": 1,
+"gatekeeper": null,
+"solTreasuryAccount": "Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37",
+"splTokenAccount": null,
+"splToken": null,
+"goLiveDate": "Mon May  9 02:06:27 AM CEST 2022",
+"endSettings": null,
+"whitelistMintSettings": null,
+"hiddenSettings": null,
+"storage": "pinata",
+"ipfsInfuraProjectId": null,
+"ipfsInfuraSecret": null,
+"pinataJwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiJjYTYyYWNmMS0yODk0LTQ3ZTMtOTVjNC1lMGJhNjE2NGNkZDMiLCJlbWFpbCI6Im1pY2hlbGNAZHJpdC5tbCIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaW5fcG9saWN5Ijp7InJlZ2lvbnMiOlt7ImlkIjoiRlJBMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfV0sInZlcnNpb24iOjF9LCJtZmFfZW5hYmxlZCI6ZmFsc2V9LCJhdXRoZW50aWNhdGlvblR5cGUiOiJzY29wZWRLZXkiLCJzY29wZWRLZXlLZXkiOiI1MTM2NjczY2QxMjg1ZjRhZGQ3NSIsInNjb3BlZEtleVNlY3JldCI6ImQ3NDAxMDJjZWQwMTJlMzViYzVjNjM5ZjE1YjFhNjFiYTQyNmQ4ODg5YzFmNGY5Zjk1M2ZjZjYzZDRkMzQ1ZTUiLCJpYXQiOjE2NDAyMDU5NTV9.GFOPo7tBbM_uljCvvyIbIcrC-iBc3zellt8KOlnD7V4",
+"pinataGateway": null,
+"awsS3Bucket": null,
+"noRetainAuthority": false,
+"noMutable": false
+}

@@ -1,0 +1,24 @@
+{
+   "name" : "Eco Organic Coin",
+   "symbol" : "eo-coin",
+   "description" : "This is a carbon negative coin",
+   "seller_fee_basis_points": 2400,
+   "image": "0.png",
+    "attributes": [
+        {"trait_type": "mutable key", "value": null},
+        {"trait_type": "operating fees", "value": "0.3%"}
+    ],
+    "properties": {
+        "creators": [
+           {"address": "CReATEZyUGY3dXuNqdarZ7kEXYk1gFubXZxLNijePvUw", "share": 70},
+           {"address": "mintr77yEC4ybQyFmhwuWwBo6z9n4QtCLY3ergjaGJx", "share": 30}
+        ],
+        "files": [
+           {"uri": "0.png", "type": "image/png"},
+           {"uri": "0.json", "type": "application/json"}
+        ]
+    },
+    "collection": {"name": "eo-coin", "family": "eco-organic-coins"}
+
+}
+

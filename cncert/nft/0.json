@@ -1,0 +1,23 @@
+{
+   "name" : "Bitcoin Carbon Neutral Certificate",
+   "symbol" : "ZeroCarb",
+   "description" : "Certificate for Carbon Neutral Bitcoin",
+   "seller_fee_basis_points": 240,
+   "image": "0.png",
+    "attributes": [
+        {"trait_type": "mutable key", "value": "QmUs6X2QHrPSAW9mZYtHGNCDjMDWTk7cg3EiEQ1Ao4PvL9"},
+        {"trait_type": "CO2 footprint", "value": "24540kg"},
+        {"trait_type": "operating fees", "value": "0.3%"}
+    ],
+    "properties": {
+        "creators": [
+           {"address": "CReATEZyUGY3dXuNqdarZ7kEXYk1gFubXZxLNijePvUw", "share": 70},
+           {"address": "mintr77yEC4ybQyFmhwuWwBo6z9n4QtCLY3ergjaGJx", "share": 30}
+        ],
+        "files": [
+           {"uri": "0.png", "type": "image/png"},
+           {"uri": "0.json", "type": "application/json"}
+        ]
+    },
+    "collection": {"name": "cncert-coll", "family": "certificate for green-coins"}
+}
