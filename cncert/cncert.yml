@@ -2,7 +2,9 @@
 symbol: cncert
 nslabel: cncert
 nft: carbon-neutral-cert.svg
+mutkey: QmUTYLgEyc3QUAgdfdzsGEyvbWw8dv4AfTPmJDHf41ZCTb
 tokenid: CertEBKXNdEuuoNJcLPta1PrT9RfcM6KJAazGcJv1dw4
+tokenid: CnCeRT5NRmSg8hohymZjv1VF5W9V9kZyw7VVLByb2rRH
 footprint: 2454
 cache: ./assets
 price: 0.05

@@ -6,7 +6,7 @@ source: hydroelectricity
 mining: 2.454 # tons per mining (hydro)
 emiskg: 2454 # kg per mine
 dam: 24 # g per kWh
-coal: 690 # g per kWh
+coal: 690+ # g per kWh
 france: 90 # g per kWh
 elec: 650 # g per kWh (conventional)
 trees: 78 # planted tree
@@ -128,6 +128,8 @@ see the metadata: [here](btc-g.json)
  11500 / 365 = 32kg /days (globally: so 32kg every 10min)
  
  138 * 3.785 = 522Ml/day
+ 
+ car: 66.2g/km
 
  https://www.leafscore.com/blog/the-9-most-sustainable-cryptocurrencies-for-2021/
  
@@ -174,5 +176,17 @@ see the metadata: [here](btc-g.json)
  https://www.eea.europa.eu/ims/greenhouse-gas-emission-intensity-of-1
  
  wallet: https://coinsem.com/4-best-solana-mobile-wallet/
+ 
+ acceptable: https://medium.com/@galaxydigitalmining/on-bitcoins-energy-consumption-a-quantitative-approach-to-a-subjective-question-d107f46c8cc5
+ 
+ germany: https://www.nowtricity.com/country/germany/
+ 
+ human breathing: https://www.sciencefocus.com/planet-earth/how-much-does-human-breathing-contribute-to-climate-change/
+  ( 500 litres of the greenhouse gas CO2 – which amounts to around 1kg in mass )
+  
+  
+  0.5g air per breath x 0.078 (c02 fraction released) = 390mg 
+  https://www.globe.gov/explore-science/scientists-blog/archived-posts/sciblog/2008/08/11/release-of-carbon-dioxide-by-individual-humans/comment-page-1/index.html
+  
 -->
 

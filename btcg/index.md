@@ -6,7 +6,21 @@ for most of today usecases, this lead to a tremendeous waste of energy which cou
 have been allocated to more "regenerative" project or climate change mitigation.
 
 Mining one bitcoin requires an average 100,168kWh which leads to carbon emission
- in the range of 2.23lbs/kWh (coal), 0.91lbs/kWh
+ in the range of 2.23lbs/kWh (coal), 0.91lbs/kWh (
+ 
+ 
+ We take a BTC wallet address and query the unspent output,
+ we mint the equivalent value in green-coin (bitcoin carbon neutral)
+ and create an associated certificate for carbon removal and planted trees
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 <!--
 france: 61g https://www.rte-france.com/en/eco2mix/co2-emissions
