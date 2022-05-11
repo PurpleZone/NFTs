@@ -2,6 +2,7 @@
 
 symb=$(cat token-item.json | json_xs -t string -e '$_ = $_->{symbol}')
 key=$(ipfs key list -l --ipns-base b58mh | grep -w -e $symb | cut -d' ' -f1)
+echo symb: $symb
 echo key: $key
 
 cat $symb.yml | json_xs -f yaml -t json > $symb.json
