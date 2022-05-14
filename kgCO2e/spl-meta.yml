@@ -2,7 +2,7 @@
 name: "Carbon Footprint"
 symbol: "kgCO2eq"
 ticker: "KGCE"
-slug: "carbon-weight.svg"
+slug: "carbon-weight"
 image: "carbon-weight.svg"
 repo: kgCO2e
 price: 6.42
