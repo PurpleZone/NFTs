@@ -1,0 +1,15 @@
+{
+   "name": "anchorcoin",
+   "tokenid": "nchrLQC3YT6kepn9JvepyDDwRMQDyZXqQ29P85Q22q",
+   "symbol": "abtc",
+   "description": "Anchored Bitcoin",
+   "attributes": [
+      {"trait_type": "mutable key", "value": null},
+      {"trait_type": "nftid", "value": null},
+      {"trait_type": "coin type", "value": "A-Coin"},
+      {"trait_type": "CO2 footprint", "value": "2454kg"},
+      {"trait_type": "operating fees", "value": "0.3%"}
+   ],
+   "collection": {"name": "abtc", "family": "anchored-coins"}
+
+}
