@@ -1,0 +1,49 @@
+{
+   "tokenid" : "~",
+   "name" : "Carbon Neutral Certificate",
+   "symbol" : "cncert",
+   "color" : "#34ab09",
+   "description" : "Certificate for Carbon Neutral BTC",
+   "seller_fee_basis_points": 240,
+   "image": "0.png",
+   "attributes" : [
+      { "trait_type" : "CertificateID", "value" : null },
+      { "trait_type" : "type", "value" : "Carbon Removal Certificate" },
+      { "trait_type" : "hash", "value" : null },
+      { "trait_type" : "S/N", "value" : 0 },
+      { "trait_type" : "Issuance Date", "value" : "date of issuance" },
+      { "trait_type" : "Certification Type", "value" : "INDEPENDANT THIRD PARTY" },
+      { "trait_type" : "Certification Period", "value" : "TBD" },
+      { "trait_type" : "CO2e Removed", "value": "390mg"},
+      { "trait_type" : "Energy Source", "value" : "hydroelectric" },
+      { "trait_type" : "Energy Used", "value" : "100168 kWh" },
+      { "trait_type" : "Energy Emission", "value" : "24g/kWh" },
+      { "trait_type" : "BTC Wallet", "value": "N/A"},
+      { "trait_type" : "SOL Wallet", "value": "N/A"},
+      { "trait_type" : "Owner Name", "value": "anonymous"},
+      { "trait_type" : "telegram", "value" : "https://t.me/cryptolake2" },
+      { "trait_type" : "linkedin", "value": "https://www.linkedin.com/company/eco-organic-technology" },
+      { "trait_type" : "nskey", "value" : null },
+      { "trait_type" : "qmid", "value" : null },
+      { "trait_type" : "SPLtokenID", "value" : null },
+      { "trait_type" : "operating fees", "value" : "0.1%" }
+   ],
+   "properties": {
+      "creators": [
+         {"address": "~", "share": 2},
+         {"address": "CReATEZyUGY3dXuNqdarZ7kEXYk1gFubXZxLNijePvUw", "share": 70},
+         {"address": "~", "share": 28}
+      ],
+      "owners": [
+         {"address": "Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37", "name": "michelc" },
+         {"address": "mintr77yEC4ybQyFmhwuWwBo6z9n4QtCLY3ergjaGJx", "nane": "iggyl"}
+      ],
+      "files": [
+         {"uri": "0.svg", "type": "image/svg"},
+         {"uri": "0.png", "type": "image/png"},
+         {"uri": "0.json", "type": "application/json"},
+         {"uri": "0.pdf", "type": "application/pdf"}
+      ]
+   },
+   "collection": {"name": "cncert-coll", "family": "certificate for green-coins"}
+}

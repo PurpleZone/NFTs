@@ -1,52 +1,29 @@
 {
-   "attributes" : [
-      {
-         "trait_type" : "mutable key",
-         "value" : "QmUs6X2QHrPSAW9mZYtHGNCDjMDWTk7cg3EiEQ1Ao4PvL9"
-      },
-      {
-         "trait_type" : "coin type",
-         "value" : "Z-Coin"
-      },
-      {
-         "trait_type" : "footprint",
-         "value" : "2454kg"
-      },
-      {
-         "trait_type" : "trees",
-         "value" : "78"
-      },
-      {
-         "trait_type" : "rate",
-         "value" : "21kg/tree.yr"
-      },
-      {
-         "trait_type" : "sequestred",
-         "value" : "66%"
-      },
-      {
-         "trait_type" : "mint",
-         "value" : "61mg"
-      },
-      {
-         "trait_type" : "telegram",
-         "value" : "https://t.me/cryptolake2"
-      },
-      {
-         "trait_type" : "operating fees",
-         "value" : "0.3%"
-      }
-   ],
-   "decimals" : "10",
-   "description" : "Removing Carbon in cryptocurrencies one coin at a time",
-   "discord" : "https://discord.gg/83DE5Hf2",
-   "image" : "btc-z.svg",
-   "linkedin" : "https://linkedin.com/in/eco-organic-technology",
-   "mutkey" : "QmTxWNhJc9zwDyDRApX3LNEAyrK9rk3Cy6N5BKmmXbV82a",
+   "tokenid" : "CZeroeJm4gfmdeL5vUy5VLUJm3aqRf2dgs7fz6DhC6vs",
    "name" : "Bitcoin CarbonZero",
    "symbol" : "btc-z",
-   "telegram" : "https://t.me/cryptolake2",
+   "description" : "Removing Carbon in cryptocurrencies one coin at a time",
+   "seller_fee_basis_points": 2400,
+   "decimals" : "10",
    "ticker" : "BTC-Z",
-   "tokenid" : "CZeroeJm4gfmdeL5vUy5VLUJm3aqRf2dgs7fz6DhC6vs",
-   "type" : "Z"
+   "image" : "btc-z.svg",
+   "type" : "Z",
+   "attributes" : [
+      { "trait_type" : "mutable key", "value" : "QmUs6X2QHrPSAW9mZYtHGNCDjMDWTk7cg3EiEQ1Ao4PvL9" },
+      { "trait_type" : "coin type", "value" : "Z-Coin" },
+      { "trait_type" : "footprint", "value" : "2454kg" },
+      { "trait_type" : "trees", "value" : "78" },
+      { "trait_type" : "rate", "value" : "21kg/tree.yr" },
+      { "trait_type" : "sequestred", "value" : "66%" },
+      { "trait_type" : "mint", "value" : "61mg" },
+      { "trait_type" : "telegram", "value" : "https://t.me/cryptolake2" },
+      { "trait_type" : "operating fees", "value" : "0.3%" }
+   ],
+   "files": [
+      {"uri": "btc-z.svg", "type": "image/svg"},
+      {"uri": "btc-z.json", "type": "application/json"}
+   ],
+   "discord" : "https://discord.gg/83DE5Hf2",
+   "linkedin" : "https://linkedin.com/in/eco-organic-technology",
+   "mutkey" : "QmTxWNhJc9zwDyDRApX3LNEAyrK9rk3Cy6N5BKmmXbV82a"
 }
