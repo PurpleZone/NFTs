@@ -169,7 +169,12 @@
    id="text28"
    x="52.213142"
    y="294.14627"
-   style="stroke-width:1.10361">quantity certified:</text><g
+   style="stroke-width:1.10361">Quantity certified:</text><text
+   class="st3 st4 st6"
+   id="text28-9"
+   x="52.157352"
+   y="309.12268"
+   style="font-size:11.4565px;font-family:Poppins-SemiBold;fill:#6d6e71;stroke-width:1.10361">Wallet Balance:</text><g
    class="TextShape"
    id="g13100"
    transform="matrix(0.02738576,0,0,0.02738576,-0.40663454,31.917543)"><g
@@ -196,7 +201,7 @@
              fill="#6c6d70"
              stroke="none"
              style="white-space:pre"
-             id="CertificationID">{CertificationID}</tspan></tspan></tspan></text></g></g><g
+             id="CertificationID">{CertificateID}</tspan></tspan></tspan></text></g></g><g
    class="Graphic"
    id="seal"
    transform="matrix(0.02738576,0,0,0.02738576,-0.40663454,31.917543)"><g
@@ -458,7 +463,17 @@ BTC Wallet</xhtml:tspan></text><text
      id="Energy_Used"
      style="font-size:9.16929px;stroke-width:0.859622"
      x="137.97044"
-     y="341.3327">{Energy_Used}</tspan></text>
+     y="341.3327">{Energy_Used}</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:9.16929px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.859622"
+   x="137.31544"
+   y="358.90182"
+   id="gcbal"
+   transform="scale(1.1633026,0.85962157)"><tspan
+     id="GC_Balance"
+     style="font-size:9.16929px;stroke-width:0.859622"
+     x="137.31544"
+     y="358.90182">{GC_Balance}</tspan></text>
 <g
    id="g34"
    style="display:inline"
@@ -2301,15 +2316,6 @@ BTC Wallet</xhtml:tspan></text><text
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.4223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:2.2896"
      x="155.55164"
      y="690.0799">{CO2e_Removed}</tspan></text>
- <script
-   src="CARBON_NEUTRAL-01.js"
-   type="text/javascript"
-   id="dynscript">
-!(async function() {
-console.log('Running CARBON_NEUTRAL-01.js script from',location.pathname);
-// import 'CARBON_NEUTRAL-01.js'
-})();
- </script>
 <text
    class="SVGTextShape"
    id="text13168-7"
@@ -2346,4 +2352,14 @@ console.log('Running CARBON_NEUTRAL-01.js script from',location.pathname);
        x="50.099258"
        y="250.81897"
        id="tspan426"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;stroke-width:0.00142848;fill:#43ad75;fill-opacity:0.99935985">Carbon Neutral</tspan></tspan></text></svg>
+			 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;stroke-width:0.00142848;fill:#43ad75;fill-opacity:0.99935985">Carbon Neutral</tspan></tspan></text>
+ <script
+   src="CARBON_NEUTRAL-01.js"
+   type="text/javascript"
+   id="dynscript">
+!(async function() {
+console.log('Running CARBON_NEUTRAL-01.js script from',location.pathname);
+// import 'CARBON_NEUTRAL-01.js'
+})();
+ </script>
+</svg>

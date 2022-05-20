@@ -2,9 +2,10 @@
    "tokenid" : "~",
    "name" : "Carbon Neutral Certificate",
    "symbol" : "cncert",
-   "color" : "#34ab09",
    "description" : "Certificate for Carbon Neutral BTC",
    "seller_fee_basis_points": 240,
+   "category": "image"
+   "external_url": "https://PurpleZone.github.io/NFTs/cncert/"
    "image": "0.png",
    "attributes" : [
       { "trait_type" : "CertificateID", "value" : null },
@@ -14,7 +15,8 @@
       { "trait_type" : "Issuance Date", "value" : "date of issuance" },
       { "trait_type" : "Certification Type", "value" : "INDEPENDANT THIRD PARTY" },
       { "trait_type" : "Certification Period", "value" : "TBD" },
-      { "trait_type" : "CO2e Removed", "value": "390mg"},
+      { "trait_type" : "GC Balance", "value": "0 BTC"},
+      { "trait_type" : "CO2e Removed", "value": "390mg (one breath)"},
       { "trait_type" : "Energy Source", "value" : "hydroelectric" },
       { "trait_type" : "Energy Used", "value" : "100168 kWh" },
       { "trait_type" : "Energy Emission", "value" : "24g/kWh" },
@@ -30,13 +32,13 @@
    ],
    "properties": {
       "creators": [
-         {"address": "~", "share": 2},
+         {"address": null, "share": 2},
          {"address": "CReATEZyUGY3dXuNqdarZ7kEXYk1gFubXZxLNijePvUw", "share": 70},
-         {"address": "~", "share": 28}
+         {"address": null, "share": 28}
       ],
       "owners": [
          {"address": "Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37", "name": "michelc" },
-         {"address": "mintr77yEC4ybQyFmhwuWwBo6z9n4QtCLY3ergjaGJx", "nane": "iggyl"}
+         {"address": "mintr77yEC4ybQyFmhwuWwBo6z9n4QtCLY3ergjaGJx", "name": "iggyl"}
       ],
       "files": [
          {"uri": "0.svg", "type": "image/svg"},
