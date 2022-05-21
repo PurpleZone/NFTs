@@ -38,3 +38,7 @@ echo BTC price: $priceBTCinSOL SOL
 #priceBTC=$(curl -s $api_url/coin/$btc/price?referenceCurrencyUuid=$chf | json_xs -t string -e '$_ = $_->{data}{price}')
 #priceSOLinBTC=$(curl -s $api_url/coin/$sol/price?referenceCurrencyUuid=$btc | json_xs -t string -e '$_ = $_->{data}{price}')
 # ------------------------------------------------------------------------
+
+date=$(date +"%Y-%m-%d @ %H:%M")
+git commit -a -m "price on $date: $priceBTCinSOL SOL"
+git push origin

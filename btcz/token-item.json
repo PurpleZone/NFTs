@@ -1,8 +1,9 @@
     {
       "chainId": 103,
-      "address": "CZeroeJm4gfmdeL5vUy5VLUJm3aqRf2dgs7fz6DhC6vs",
+#      "address": "CZeroeJm4gfmdeL5vUy5VLUJm3aqRf2dgs7fz6DhC6vs",
+      "address": "CZero7niHAHbW29oVf2XoCwDWznBaDbd2NxRq9zXfGW4",
       "symbol": "btc-z",
-      "name": "Bitcoin CarbonZero",
+      "name": "CarbonZero BTC",
       "decimals": 10,
        "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/btcz/btc-z.svg",
       "tags": [

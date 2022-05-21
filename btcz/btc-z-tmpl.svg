@@ -172,15 +172,6 @@ console.log('Running btc-g.js script from',location.pathname);
      id="title-path" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#003637;fill-opacity:1;stroke:none;stroke-width:0.264583;letter-spacing:2.24366667px"
-     id="title"><textPath
-       xlink:href="#path879"
-       startOffset="50%"
-       id="textPath31102"><tspan
-         id="tspan3696"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#003637;fill-opacity:1">carbonzero bitcoin</tspan></textPath></text>
-  <text
-     xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#4b494c;fill-opacity:1;stroke:none;stroke-width:0.264583"
      id="addr"><textPath
        xlink:href="#wallet-path"
@@ -192,4 +183,13 @@ console.log('Running btc-g.js script from',location.pathname);
      style="opacity:0.01;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 12.276481,71.53311 c 10.593146,10.706134 20.551623,13.510078 31.818261,12.902389 12.235669,-0.659956 21.67709,-4.08146 31.9703,-16.356619"
      id="wallet-path" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;letter-spacing:2.33097917px"
+     id="carbonzero"><textPath
+       xlink:href="#title-path"
+       startOffset="50%"
+       id="textPath27025"><tspan
+         id="tspan5334"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583">carbonzero bitcon</tspan></textPath></text>
 </svg>
