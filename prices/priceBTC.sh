@@ -15,7 +15,7 @@ api_url=https://api.coinranking.com/v2
 find . -maxdepth 1 -name 'coinset.json' -mtime +1
 stat coinset.json
 found=$(find . -name 'coinset.json' -mtime +0 | wc -l)
-if [ "$found" != '1' ]; then
+if [ "$found" = '1' ]; then
 tic=$(date +%s%N | cut -c-13)
 priceSOLinCHF=$(curl -s $api_url/coin/$sol/price?referenceCurrencyUuid=$chf | json_xs -t string -e '$_ = $_->{data}{price}')
 echo SOL price: $priceSOLinCHF CHF
