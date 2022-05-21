@@ -36,6 +36,9 @@ echo USD price: $priceUSDinSOL SOL
 priceSOLinBTC=$(cat coinset.json | json_xs -t string -e '$_ = $_->{data}{coins}[0]{btcPrice}')
 priceBTCinSOL=$(echo 1 / $priceSOLinBTC | bc -l);
 echo BTC price: $priceBTCinSOL SOL
+echo $tic: $priceBTCinSOL >> priceBTCinSOL.yml
+priceETHinSOL=$(echo $priceETH / $priceSOL | bc -l);
+echo $tic: $priceETHinSOL >> priceETHinSOL.yml
 #priceSOL=$(curl -s $api_url/coin/$sol/price?referenceCurrencyUuid=$chf | json_xs -t string -e '$_ = $_->{data}{price}')
 #priceBTC=$(curl -s $api_url/coin/$btc/price?referenceCurrencyUuid=$chf | json_xs -t string -e '$_ = $_->{data}{price}')
 #priceSOLinBTC=$(curl -s $api_url/coin/$sol/price?referenceCurrencyUuid=$btc | json_xs -t string -e '$_ = $_->{data}{price}')
