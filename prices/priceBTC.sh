@@ -42,5 +42,5 @@ echo BTC price: $priceBTCinSOL SOL
 # ------------------------------------------------------------------------
 
 date=$(date +"%Y-%m-%d @ %H:%M")
-git commit -a -m "price on $date: $priceBTCinSOL SOL"
+git commit -a -uno -m "price on $date: $priceBTCinSOL SOL"
 git push origin
