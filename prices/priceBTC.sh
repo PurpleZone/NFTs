@@ -1,5 +1,6 @@
 #
 
+export PATH=$PATH:/home/$USER/repo/gitea/bin
 # ------------------------------------------------------------------------
 # get BTC price
 sol=zNZHO_Sjf
