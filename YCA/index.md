@@ -2,7 +2,8 @@
 ---
 ##  YC Apocalypse;  YCA (#yca52C)
 
-
+![yca-coin](https://bafybeidzazuktrg74jmbz67jpddi34chsldu2mxyrbncbx6ocvubdmdpyy.ipfs.nftstorage.link/?ext=sv)
+<style>img[alt=yca-coin] { max-width:180px; float: right; }</style>
 
 * [yca52CtBFG9skA8FVLfvsVcbFZMfUWvmyBt4hGWzVuF](https://explorer.solana.com/address/yca52CtBFG9skA8FVLfvsVcbFZMfUWvmyBt4hGWzVuF)
 
