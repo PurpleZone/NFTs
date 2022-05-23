@@ -1,8 +1,27 @@
 {
    "description" : "NFWL: is a subwallet to your wallet for your precious sustainable tokens",
-   "image" : "nf-wallet.svg",
-   "intent" : "The world you want with the right tokens that enpower humanity.",
    "name" : "Non Fungible Wallet",
    "symbol" : "nfwl",
-   "tokenid" : "NfWLyJSeXsEwWxgvZxuq3nhSXDnqkCKzf3YGSrLgTPx"
+   "seller_fee_basis_points": 240,
+#  "image": "https://ipfs.safewatch.xyz/ipfs/QmPt3MHdHiNN35gDwLdv9HVRaCBe2BD5ySPVpHxxCR8XVE/0.png",
+#  "image" : "nf-wallet.svg",
+   "image": "0.png",
+#  "animation_url": "https://www.arweave.net/efgh1234?ext=mp4",
+  "external_url": "https://PurpleZone.github.io/NFTs/wallet",
+   "attributes" : [
+      { "trait_type": "intent", "value" : "The world you want with the right tokens that enpower humanity." },
+      { "trait_type" : "color", "value" : "#425" },
+      { "trait_type" : "hash", "value" : null }
+   ],
+   "properties": {
+      "category": "pdf",
+      "files": [
+         {"uri": "0.json", "type": "application/json"},
+         {"uri": "0.png", "type": "image/png"}
+      ],
+      "creators": [
+         {"address": "CReATEZyUGY3dXuNqdarZ7kEXYk1gFubXZxLNijePvUw", "share": 100}
+      ]
+   },
+   "collection": {"name": "sub wallets", "family": "wallets"}
 }
