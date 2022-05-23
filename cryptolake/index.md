@@ -1,8 +1,11 @@
---- # 6th eXtinction Rebellion
+---
+title: CRPTLK, cryptolake
+--- 
+## cryptolake (courtesy @cryptolake2)
 
-![X6R](X6R.svg)
+![CRPTLK](cryptolake.svg)
 <style>
-img[alt=X6R] { max-width: 20vw; float: right }
+img[alt=CRPTLK] { max-width: 20vw; float: right }
 </style>
 
 Our current governance is flawed, our living condition have worsen,
@@ -35,10 +38,10 @@ if you'd like to experiment with a new style of autonomous governance
 to solve our current world crisis, please consider getting the token below :
 
 ```yaml
-intention: A token to Stop the 6th eXtinction
-name: 6th eXtinction Rebellion
-symbol: X6R
-description: "This is a membership token, it acts as a proof that you are active fixing the world !"
+intention: Swiss Token: crypto done right
+name: cryptolake
+symbol: CRPTLK
+description: "A token for CryptoLake membership"
 ```
 
 you may contact us
