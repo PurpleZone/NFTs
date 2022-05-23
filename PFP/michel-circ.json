@@ -1,0 +1,26 @@
+{
+   "description" : "PFP: this is profile picture !",
+   "name" : "Non Fungible PFP",
+   "symbol" : "PFP",
+   "seller_fee_basis_points": 240,
+   "image": "0.png",
+#  "image": "https://PurpleZone.github.io/NFTs/PFP/michel-circ.png",
+  "external_url": "https://PurpleZone.github.io/NFTs/PFP/",
+   "attributes" : [
+      { "trait_type" : "name", "value" : "Michel Combes" },
+      { "trait_type": "intent", "value" : "A simple PFP" },
+      { "trait_type" : "color", "value" : "#400244" },
+      { "trait_type" : "hash", "value" : null }
+   ],
+   "properties": {
+      "category": "image",
+      "files": [
+         {"uri": "0.png", "type": "image/png"},
+         {"uri": "0.json", "type": "application/json"}
+      ],
+      "creators": [
+         {"address": "CReATEZyUGY3dXuNqdarZ7kEXYk1gFubXZxLNijePvUw", "share": 100}
+      ]
+   },
+   "collection": {"name": "PFP", "family": "Profile Pictures"}
+}

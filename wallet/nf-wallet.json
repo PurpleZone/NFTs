@@ -3,20 +3,23 @@
    "name" : "Non Fungible Wallet",
    "symbol" : "nfwl",
    "seller_fee_basis_points": 240,
-#  "image": "https://ipfs.safewatch.xyz/ipfs/QmPt3MHdHiNN35gDwLdv9HVRaCBe2BD5ySPVpHxxCR8XVE/0.png",
 #  "image" : "nf-wallet.svg",
    "image": "0.png",
+#  "image": "https://PurpleZone.github.io/NFTs/wallet/nf-wallet.svg",
+#  "animation_url": "https://ipfs.safewatch.xyz/ipfs/QmNo5n5pBd2gkC91QFZC3WwgywgbNyLVSjBk8WJVtfMrMS/0.svg?ext=svg",
 #  "animation_url": "https://www.arweave.net/efgh1234?ext=mp4",
   "external_url": "https://PurpleZone.github.io/NFTs/wallet",
    "attributes" : [
-      { "trait_type": "intent", "value" : "The world you want with the right tokens that enpower humanity." },
-      { "trait_type" : "color", "value" : "#425" },
-      { "trait_type" : "hash", "value" : null }
+      { "trait_type" : "name", "value" : "Michel Combes" },
+      { "trait_type": "intent", "value" : "The world you want with the right tokens that enpowers humanity." },
+      { "trait_type" : "color", "value" : "#440240" },
+      { "trait_type" : "hash", "value" : "QmNo5n5pBd2gkC91QFZC3WwgywgbNyLVSjBk8WJVtfMrMS" }
    ],
    "properties": {
-      "category": "pdf",
+      "category": "wallet",
       "files": [
-         {"uri": "0.json", "type": "application/json"},
+         {"uri": "https://ipfs.safewatch.xyz/ipfs/QmNo5n5pBd2gkC91QFZC3WwgywgbNyLVSjBk8WJVtfMrMS/0.svg", "type": "image/svg"},
+         {"uri": "https://ipfs.safewatch.xyz/ipfs/QmNo5n5pBd2gkC91QFZC3WwgywgbNyLVSjBk8WJVtfMrMS/0.json", "type": "application/json"},
          {"uri": "0.png", "type": "image/png"}
       ],
       "creators": [
