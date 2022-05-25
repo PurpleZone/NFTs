@@ -1,0 +1,18 @@
+CertificateID: "20220525222437168196277445944.0"
+S/N: "445944/0"
+GC_Balance: "0.00120977 BTC"
+BTC_Wallet: 1BtCGrEQFrTTutPVTAncAjEvhwm3YUx3TN
+SOL_Wallet: FDhJEXbh4Hd79oREXUoAT1NkrcCF4W9SifaHv8HZ5r7H
+Issuance_Date: 2022/05/25
+Certification_Type: "INDEPENDANT THIRD PARTY"
+Certification_Period: "2022-05-22 to 2023-05-23"
+CO2e_Removed: "2.9083 kg CO2e"
+Energy_Used: "121.1802 kWh"
+ticker: "CNC0"
+price: 0.020566
+description: "A Carbon Removal Certificate #445944/0"
+color: "#06ce13"
+SPLtokenID: "BTCG4EGjivgfgnfKfkqgZkDXuj5KdTeWuJsEGFFzkjai"
+nskey: "QmSLfpbX7uRUHVFkihT9ugnPE1Q8vAxKqWo8sZDbUdUdVH"
+operation_fees: 2.4%
+qrcode_url: https://ipfs.safewatch.care/ipns/QmSLfpbX7uRUHVFkihT9ugnPE1Q8vAxKqWo8sZDbUdUdVH
