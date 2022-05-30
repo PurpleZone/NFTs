@@ -1,11 +1,6 @@
 
-# tokens
-gctoken=BTCGZYMqyfA8WBKNgwcpZn21ruNBvHvbfnrYNsd4xtTZ
-gctoken=BTCG4EGjivgfgnfKfkqgZkDXuj5KdTeWuJsEGFFzkjai
-cctoken=CaRbonA6QNTWAKhq1oaH8BVBRyNvYkWYBLb4KqkeQ5jH
-cctoken=CArBo4puwrkEsEqDY5SDxNwj31bi3V2ZubimRNSwXVNr
-cctoken=CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq
-#cctoken=CcREDkwUxBVoazUe4a8Lw9Jrb483EVpmsw9bzscp7se2
+# load default
+eval $(cat config.yml | eyml)
 
 # btc wallet
 btcwallet=1GrouNDP5L1WWHJC1emJpRpWhiutgWTg65
@@ -13,18 +8,10 @@ btcwallet=bc1qjtvajnayqg7fnf4eltnmr8gm5xsr7cgpmnem2t
 btcwallet=bc1qv0ldrc7028lrppfzmxf7jwvceravt95z8grt89
 btcwallet=bc1q2zsysq8uh2xkuedn9kg725q259ge08gzn5lhjp
 
-# spl wallet
-frstwallet=Forst88SM5gkHt18BKQUtTzXRTc1LiqzDKVoocYeTpNV
-logwallet=RMco2JfZqQCsWHCcmeDXYyyCqUyE2xib6V6wgGJs4ew
-burried=BuRRyZyaEg51tMJVXexSXzi9pMLzY3CSGtBpxKMzdGnU
-
-watchlet=CCCEZt9WULFhPvAWFyGzgnGVhW5GnZofiyZrT7HCb9mW
-gcwallet=$gctoken
-watchlet=$cctoken
-
 # user's SPL wallet
 userwallet=rJCDKYNQv3i6kHDFWbZejzk32qBavHCtJkxrErfwTtC
 userwallet=DfcJnBoDCiiX2n4NbfnVXSX5sd63WfLRBa3E33Z97MkC
 userwallet=FDhJEXbh4Hd79oREXUoAT1NkrcCF4W9SifaHv8HZ5r7H
 
 
+return 0;
