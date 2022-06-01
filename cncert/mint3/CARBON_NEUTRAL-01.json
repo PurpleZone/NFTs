@@ -4,7 +4,7 @@
    "description" : "Certificate for Carbon Neutral BTC",
    "seller_fee_basis_points": 240,
    "external_url": "https://PurpleZone.github.io/NFTs/cncert/",
-   "image": "https://ipfs.safewatch.xyz/ipns/{nskey}/assets/0.png",
+   "image": "https://ipfs.safewatch.xyz/ipns/{nskey}/{SOL_Wallet}/assets/0.svg",
    "attributes" : [
       { "trait_type" : "CertificateID", "value" : null },
       { "trait_type" : "type", "value" : "Carbon Removal Certificate" },
@@ -47,7 +47,7 @@
       ],
       "files": [
          {"uri": "https://ipfs.safewatch.xyz/ipns/{nskey}/assets/0.png", "type": "image/png"},
-         {"uri": "../offchain/cncert-0.pdf", "type": "application/pdf"},
+         {"uri": "CarbonZero-Certificate.pdf", "type": "application/pdf"},
          {"uri": "https://ipfs.safewatch.xyz/ipns/{nskey}/offchain-0.svg", "type": "image/svg"},
          {"uri": "0.json", "type": "application/json"}
       ]

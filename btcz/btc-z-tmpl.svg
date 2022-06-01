@@ -86,7 +86,8 @@
        y="120.4758"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.5723px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#19ab3c;fill-opacity:1;stroke-width:0.264583">greencoin</tspan></text>
   <g
-     id="clickable">
+     id="clickable"
+     style="display:none">
     <g
        id="droplet"
        transform="translate(-40.622387,-3.0283466)">
