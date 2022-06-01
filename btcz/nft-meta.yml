@@ -1,0 +1,20 @@
+---
+CertificateID: ~
+S/N: 000
+name: "Carbon Neutral Certificate #0"
+CO2_footprint: ~
+symbol: "ZeroCarb"
+ticker: "CNC0"
+slug: "carbon-neutral-cert"
+image: "CARBON_NEUTRAL-01.svg"
+repo: cncert
+price: 0.02
+tokenid: CERTxBXLQj2EmWH1EkVCihKoxEfDy8QapaxVUN9WWzHF
+decimals: 6
+description: "A Carbon Neutral Certificate"
+nskey: QmVYhabrNidUzhLmDpbB28JxK12mUbagDuEj8VnwdMugqr
+footprint: 61.08mg
+telegram: "https://t.me/cryptolake2"
+color: "#213"
+operating_fees: "0.3%"
+

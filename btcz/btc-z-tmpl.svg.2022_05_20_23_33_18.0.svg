@@ -7,9 +7,22 @@
    viewBox="0 0 86.014913 86.111009"
    version="1.1"
    id="btcg"
+   sodipodi:docname="btc-z-tmpl.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview887"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false" />
   <defs
      id="defs1031">
     <linearGradient
@@ -86,8 +99,7 @@
        y="120.4758"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.5723px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#19ab3c;fill-opacity:1;stroke-width:0.264583">greencoin</tspan></text>
   <g
-     id="clickable"
-     style="display:none">
+     id="clickable">
     <g
        id="droplet"
        transform="translate(-40.622387,-3.0283466)">
@@ -164,13 +176,23 @@
      id="dynascript">
 !(async function() {
 console.log('Running btc-g.js script from',location.pathname);
-// included: btc-g.js
+// import 'btc-g.js'
 })();
  </script>
   <path
-     style="display:inline;opacity:0.01;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="display:inline;opacity:0.43414;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 6.3851557,32.159485 C 11.417578,14.533266 28.053992,5.7181162 43.154195,5.6984496 58.060961,5.6790349 72.933614,14.00848 79.520133,31.725874"
      id="title-path" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:2.24367px;text-anchor:middle;opacity:0.43414;fill:#003637;fill-opacity:1;stroke:none;stroke-width:0.264583"
+     id="title"
+     transform="translate(44.254623,-2.4333539)"><tspan
+       id="tspan3696"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#003637;fill-opacity:1;stroke-width:0.264583">carbonzero bitcoin</tspan><textPath
+       xlink:href="#path879"
+       startOffset="50%"
+       id="textPath31102" /></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#4b494c;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -184,13 +206,4 @@ console.log('Running btc-g.js script from',location.pathname);
      style="opacity:0.01;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 12.276481,71.53311 c 10.593146,10.706134 20.551623,13.510078 31.818261,12.902389 12.235669,-0.659956 21.67709,-4.08146 31.9703,-16.356619"
      id="wallet-path" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;letter-spacing:2.33097917px"
-     id="carbonzero"><textPath
-       xlink:href="#title-path"
-       startOffset="50%"
-       id="textPath27025"><tspan
-         id="tspan5334"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583">carbonzero bitcon</tspan></textPath></text>
 </svg>
