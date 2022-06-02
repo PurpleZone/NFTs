@@ -8,27 +8,30 @@ ccwallet: CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq
 cfptoken: Co2FP2AdUaKmUMLg4aGRTTNqKAQEwgAgAh5RVFXJhzar
 cost: 17
 cpty: 21
-delay: 7
+delay: 0
 efprt: 0.02454
 energy: 100168
 forest: Forst88SM5gkHt18BKQUtTzXRTc1LiqzDKVoocYeTpNV
-gctoken: BTCG4EGjivgfgnfKfkqgZkDXuj5KdTeWuJsEGFFzkjai
-gcwallet: BTCG4EGjivgfgnfKfkqgZkDXuj5KdTeWuJsEGFFzkjai
+gctoken: CZero7niHAHbW29oVf2XoCwDWznBaDbd2NxRq9zXfGW4
+gcwallet: CZero7niHAHbW29oVf2XoCwDWznBaDbd2NxRq9zXfGW4
 logwallet: RMco2JfZqQCsWHCcmeDXYyyCqUyE2xib6V6wgGJs4ew
-micwallet: Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37
 mintauth: Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37
+mintkey: Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37
 mutkey: Qme8XesJo6QxGJTQhDqTDcf3BSmJiYg3P7x6mjjpsXyJPE
 nskey: QmSLfpbX7uRUHVFkihT9ugnPE1Q8vAxKqWo8sZDbUdUdVH
-redo: 0
 solwkey: QmXPxSdATbobC2zBTnnZmhvgLKcdwRvJAW8dEXWCi1d2EX
+trigger: 1
 trtoken: treessKmT2gWMhn2hiQ5QMuTPCdCLZ3wpVdE3SUB8Yp
+update: 0
 usrwallet: CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7
 ---
 <meta charset="utf8"/>
-<!-- qm: QmZkdYvG3xocLod7z4wspJVA8ooq8rHQHHpmUfZfNDTjFh-->
-## Carbon Zero System Status
+<!-- qm: Qme75N9B4Tt6tJNNGTwNMscbJZuULCTZg7G44ehT1MBoWg-->
+## Carbon Zero System Status <span id=time></span>
 
-[1]: https://explorer.solana.com/address/BTCG4EGjivgfgnfKfkqgZkDXuj5KdTeWuJsEGFFzkjai?cluster=devnet
+<div id=console></div>
+
+[1]: https://explorer.solana.com/address/CZero7niHAHbW29oVf2XoCwDWznBaDbd2NxRq9zXfGW4?cluster=devnet
 [2]: https://blockchain.com/btc/address/bc1q2zsysq8uh2xkuedn9kg725q259ge08gzn5lhjp
 [3]: https://explorer.solana.com/address/CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq?cluster=devnet
 [4]: https://solscan.io/address/BuRRyZyaEg51tMJVXexSXzi9pMLzY3CSGtBpxKMzdGnU/tokens?cluster=devnet
@@ -36,8 +39,8 @@ usrwallet: CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7
 [6]: https://ipfs.safewatch.xyz/ipns/QmSLfpbX7uRUHVFkihT9ugnPE1Q8vAxKqWo8sZDbUdUdVH/CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7/assets/certificate.pdf
 [7]: https://ipfs.safewatch.xyz/ipfs/QmSco6dZwKRCkLNRa6HL49m8hXSdQfvfmYNm1P13Ksb6XC/CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7/assets
 [7m]: https://ipfs.safewatch.xyz/ipfs/QmSLfpbX7uRUHVFkihT9ugnPE1Q8vAxKqWo8sZDbUdUdVH/CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7
-[8]: https://ipfs.safewatch.xyz/ipfs/QmRBNUD4A3cspoBWtYu1HJro2pEfzj3SYY2RGqArygkymj/SOLwatchlet.log
-[9]: https://ipfs.safewatch.xyz/ipfs/QmZkdYvG3xocLod7z4wspJVA8ooq8rHQHHpmUfZfNDTjFh/gcmint.htm
+[8]: https://ipfs.safewatch.xyz/ipfs/QmYiLoLzsvyQmTZcW2XFZXxJDhwVwFF7M7EEtdQx1bZjxd/SOLwatchlet.log
+[9]: https://ipfs.safewatch.xyz/ipfs/Qme75N9B4Tt6tJNNGTwNMscbJZuULCTZg7G44ehT1MBoWg/gcmint.htm
 [10]: https://ipfs.safewatch.xyz/ipns/Qme8XesJo6QxGJTQhDqTDcf3BSmJiYg3P7x6mjjpsXyJPE/gcmint.htm
 [cointraker]: https://www.cointracker.io/wallet/bitcoin?address=bc1q2zsysq8uh2xkuedn9kg725q259ge08gzn5lhjp
 [blockchair]: https://blockchair.com/bitcoin/address/bc1q2zsysq8uh2xkuedn9kg725q259ge08gzn5lhjp
@@ -47,53 +50,58 @@ usrwallet: CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7
 ![CarbonZeroBitcoinLogo](https://PurpleZone.github.io/NFTs/btcz/btc-z.svg)
 <style>img[alt=CarbonZeroBitcoinLogo] { width: 140px; float: right }</style>
 
-* 1BTC: 2458.1227kg CO2e
+* 10mBTC: 24.5812kg CO2e
 * [__bc1q2zsysq8uh2xkuedn9kg725q259ge08gzn5lhjp__][blockchair] balance: 1623574 satoshi (16.235740mBTC)
-* [__CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7__][5] balance: 0.0008100 mBTC (0.001991 kg);
 * Energy burn for 0.01623574 BTC: 1626.3016 kWh, 39.9094kg CO2e (mining)
-* previous block: [QmZkdYvG3xocLod7z4wspJVA8ooq8rHQHHpmUfZfNDTjFh][9]
+* previous block: [Qme75N9B4Tt6tJNNGTwNMscbJZuULCTZg7G44ehT1MBoWg][9]
 * head block: [Qme8XesJo6QxGJTQhDqTDcf3BSmJiYg3P7x6mjjpsXyJPE][10]
 
-### Accounts:
+### Accounts 
 
-* balance log: [SOLwatchlet.log][8]
-* CarbonZero Bitcoin Wallet: [BTCG4EGjivgfgnfKfkqgZkDXuj5KdTeWuJsEGFFzkjai][1] (reserve)
 * User Wallet: [CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7][5]
-* User Metadata: [QmSco6dZwKRCkLNRa6HL49m8hXSdQfvfmYNm1P13Ksb6XC/CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7/assets][7]
-* User Certificate: [/CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7/assets/certificate.pdf][6]
+   -   balance: 0.0000000 mBTC (0.000000 kg); [CarboNQ][5]
+   -   Metadata: [QmSco6dZwKRCkLNRa6HL49m8hXSdQfvfmYNm1P13Ksb6XC/CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7/assets][7]
+   -   Certificate: [/CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7/assets/certificate.pdf][6]
+* CarbonZero Bitcoin Wallet: [CZero7niHAHbW29oVf2XoCwDWznBaDbd2NxRq9zXfGW4][1] (reserve)
+   -   balance: 0.0000000000 BTC (0.000000 kg); [CZero7n][1] 
+* balance log: [SOLwatchlet.log][8]
+
+### Tokens
+
+* Carbon Zero Bitcoin supply: 0.0000000000 BTC 0.000000 kg; [CZero7niHAHbW29oVf2XoCwDWznBaDbd2NxRq9zXfGW4][1] (total)
+* Carbon Removed (Credit): 0.000000 kg (0.0000000000 BTC); [CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq][3]
+* Past Emission Removed: 0.000550 kg (0.0000002237 BTC); [BuRRyZyaEg51tMJVXexSXzi9pMLzY3CSGtBpxKMzdGnU][4] (used)
+* see also carbon spot price: https://carboncredits.com/carbon-prices-today/
 
 ________________________________________________________________________
-### Balances on (Tues, 31 May 2022  0:49 GMT)
+### Balances on (Thur, 02 Jun 2022 10:50:00 GMT)
 
-* Bitcoin balance (BTC): 0.0162357400 BTC 39.909441 kg; [bc1q2zsysq8uh2xkuedn9kg725q259ge08gzn5lhjp][2] (pool)
-* Uncertificed Bitcoin balance: 0.0162349262 BTC 39.907441 kg; [bc1q2zsysq8uh2xkuedn9kg725q259ge08gzn5lhjp][2] (mined)
-* Carbon Zero Bitcoin balance: 0.0000000000 BTC 0.000000 kg; [BTCG4EGjivgfgnfKfkqgZkDXuj5KdTeWuJsEGFFzkjai][1] (reserve)
-* Emission Removed (Credit): 0.004462 kg (0.0000018152 BTC); [CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq][3]
-* Past Emission Removed: 0.002000 kg (0.0000008138 BTC); [BuRRyZyaEg51tMJVXexSXzi9pMLzY3CSGtBpxKMzdGnU][4] (used)
-* Certified User Carbon Zero Bitcoin balance: 0.0008100 mBTC (0.001991 kg); [CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7][5] (used)
-* Carbon Footprint: 39.907441 kg (0.0162349262 BTC) (left)
+* Bitcoin balance (BTC): 16.2357400 mBTC 39.909441 kg; [bc1q2zsysq8uh2xkuedn9kg725q259ge08gzn5lhjp][2] (pool)
+* Uncertificed Bitcoin balance: 16.2355163 mBTC 39.908891 kg; [bc1q2zsysq8uh2xkuedn9kg725q259ge08gzn5lhjp][2] (mined)
+* Carbon Zero Bitcoin balance: 0.0000000 mBTC 0.000000 kg; [CZero7niHAHbW29oVf2XoCwDWznBaDbd2NxRq9zXfGW4][1] (reserve)
+* Certified User Carbon Zero Bitcoin balance: 0.0000000 mBTC (0.000000 kg); [CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7][5] (used)
+* Carbon Footprint: 39.908891 kg (0.0162355163 BTC) (left)
 
 ________________________________________________________________________
 ### Carbon Removal Status and Triggered Actions (oracle):
 
-* CarbonZero bitcoins: 0.0008138 mBTC (0.002kg)
-* CarbonPositive (Uncertified) bitcoins: 16.2349262 mBTC (39.907kg)
-* CarbonZero Reserve: 0.0000000 mBTC (0.000kg)
-* Emission Removed (Credit):  0.0018152 mBTC (0.004462kg CO2e)
-* steps for clean-up:
-   - minting: 0.0018152 CarbonZero milliBitcoin (mBTC-Z)
-   1. ``spl-token transfer CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq 0.004462000 BuRRyZyaEg51tMJVXexSXzi9pMLzY3CSGtBpxKMzdGnU --allow-unfunded-recipient --fund-recipient``
-   2. ``spl-token mint BTCG4EGjivgfgnfKfkqgZkDXuj5KdTeWuJsEGFFzkjai 0.0000018152``
-   - reset: ``spl-burn.sh BTCG4EGjivgfgnfKfkqgZkDXuj5KdTeWuJsEGFFzkjai 0.0000018152`` (after credit transfer)
-* remaining footprint: 0.0162331 mBTC (2 trees needed)
 
-go-plant: 2 trees with $0.28 (39.9029790000128kg CO2e)
-<br>and-run:
+There are CarbonPositive (Uncertified) bitcoin left: 0.0162355163 BTC
 
-* spl-token mint CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq 39.9029790000128
-* spl-token transfer CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq 39.9029790000128 CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq
+actions:
+
+* plant: 2 trees (39.908891kg CO2e)
+  <br> estimated price: 0.276 USD
+* spl-token mint CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq 39.9088913700128 -- Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37
+* spl-token transfer CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq 39.9088913700128 BuRRyZyaEg51tMJVXexSXzi9pMLzY3CSGtBpxKMzdGnU
 
 ------------------------------------------------------------------------
 <script><!-- Auto refrest -->
- window.setTimeout(_=>{ location.reload(); }, 300_000);
+ window.setTimeout(_=>{ location.reload(); }, 30_000);
+ let now = Date.now();
+ let today = new Date(now);
+ let ISOdate = today.toISOString();
+ let [date,time] = ISOdate.split('T');
+ console.log('date:',today)
+ document.getElementById('time').innerText = time
 </script>

@@ -1,0 +1,11 @@
+---
+symbol: carbon
+nslabel: carbon
+nft: carbon-credit.svg
+mutkey: QmQ73gJgtichHVt4YyzrcdMUoGzYVkymxQyE9n8B1Emw9o
+tokenid: CaRbonA6QNTWAKhq1oaH8BVBRyNvYkWYBLb4KqkeQ5jH
+footprint: '61mg'
+cache: "./assets"
+# carbon-credit-cart: $10 / tCO2e
+price: 0.20
+decimals: 6

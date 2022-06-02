@@ -1,0 +1,93 @@
+{
+   "attributes" : [
+      {
+         "trait_type" : "hash",
+         "value" : "QmcVaYdYF2taFQq3DLaYFz9FxcrscYnmEn7iQgEYrbaR55"
+      },
+      {
+         "trait_type" : "date",
+         "value" : "Wed May 11 10:25:52 AM CEST 2022"
+      },
+      {
+         "trait_type" : "type",
+         "value" : "61mg"
+      },
+      {
+         "trait_type" : "CO2e credit",
+         "value" : "1kg"
+      },
+      {
+         "trait_type" : "Method",
+         "value" : "planted trees"
+      },
+      {
+         "trait_type" : "Sequestration rate",
+         "value" : "21kg/yr"
+      },
+      {
+         "trait_type" : "telegram",
+         "value" : "https://t.me/cryptolake2"
+      },
+      {
+         "trait_type" : "linkedin",
+         "value" : "https://www.linkedin.com/company/drit/"
+      },
+      {
+         "trait_type" : "nskey",
+         "value" : null
+      },
+      {
+         "trait_type" : "operating fees",
+         "value" : "0.3%"
+      }
+   ],
+   "category" : "image/png",
+   "collection" : {
+      "family" : "certificate for green-coins",
+      "name" : "cncert-coll"
+   },
+   "color" : "#342b29",
+   "description" : "Proof of Carbon Sequestration to be used as Carbon credit",
+   "external_url" : "https://duckduckgo.com/?q=carbon+credit+coin+solana",
+   "image" : "0.png",
+   "name" : "Carbon Credit Coin",
+   "properties" : {
+      "creators" : [
+         {
+            "address" : "Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37",
+            "share" : 2
+         },
+         {
+            "address" : "CReATEZyUGY3dXuNqdarZ7kEXYk1gFubXZxLNijePvUw",
+            "share" : 70
+         },
+         {
+            "address" : "mintr77yEC4ybQyFmhwuWwBo6z9n4QtCLY3ergjaGJx",
+            "share" : 28
+         }
+      ],
+      "files" : [
+         {
+            "type" : "image/svg",
+            "uri" : "0.svg"
+         },
+         {
+            "type" : "image/png",
+            "uri" : "0.png"
+         },
+         {
+            "type" : "application/json",
+            "uri" : "0.json"
+         }
+      ],
+      "owners" : [
+         {
+            "address" : "Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37",
+            "name" : "michelc"
+         }
+      ]
+   },
+   "seller_fee_basis_points" : 160,
+   "symbol" : "carbon",
+   "tokenid" : "~"
+}

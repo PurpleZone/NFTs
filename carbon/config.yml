@@ -1,0 +1,43 @@
+--- # CarbonZero config
+
+# ------------------------------------------------------------
+# --- Tokens
+mintauth: Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37
+gctoken: CZERo1zERhXQqGbMvWb9rJEsqNSujymo4UkJuUrkSR86
+#my $cctoken = 'CArBo4puwrkEsEqDY5SDxNwj31bi3V2ZubimRNSwXVNr'
+trtoken: 'treessKmT2gWMhn2hiQ5QMuTPCdCLZ3wpVdE3SUB8Yp'
+cctoken: 'CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq'
+cfptoken: 'Co2FP2AdUaKmUMLg4aGRTTNqKAQEwgAgAh5RVFXJhzar'
+# ------------------------------------------------------------
+# reserve wallet (pool)
+btcwallet: 'bc1q2zsysq8uh2xkuedn9kg725q259ge08gzn5lhjp'
+# system wallet (mint)
+gcwallet: 'CZero7niHAHbW29oVf2XoCwDWznBaDbd2NxRq9zXfGW4'
+#ccwallet: 'CCCEZt9WULFhPvAWFyGzgnGVhW5GnZofiyZrT7HCb9mW'
+ccwallet: 'CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq'
+# ------------------------------------------------------------
+forest: 'Forst88SM5gkHt18BKQUtTzXRTc1LiqzDKVoocYeTpNV'
+logwallet: 'RMco2JfZqQCsWHCcmeDXYyyCqUyE2xib6V6wgGJs4ew'
+burried: 'BuRRyZyaEg51tMJVXexSXzi9pMLzY3CSGtBpxKMzdGnU'
+# ------------------------------------------------------------
+# client wallets
+mintkey: 'Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37'
+usrwallet: 'DfcJnBoDCiiX2n4NbfnVXSX5sd63WfLRBa3E33Z97MkC'
+usrwallet: '2yKC6S6LRePCLT3eXh5dSb7iSLZSsWSEdrUJqd3AmVFj'
+usrwallet: FDhJEXbh4Hd79oREXUoAT1NkrcCF4W9SifaHv8HZ5r7H
+usrwallet: 'GreenMMudce22thwc1iG596982uEF74hge55GRfwmEQm'
+usrwallet: 'CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7'
+# ------------------------------------------------------------
+# mutable keys:
+nskey: 'QmSLfpbX7uRUHVFkihT9ugnPE1Q8vAxKqWo8sZDbUdUdVH'
+solwkey: 'QmXPxSdATbobC2zBTnnZmhvgLKcdwRvJAW8dEXWCi1d2EX'
+mutkey: 'Qme8XesJo6QxGJTQhDqTDcf3BSmJiYg3P7x6mjjpsXyJPE'
+
+
+energy: 100168 # kWh/BTC
+efprt:  0.02454 # kg/kWh
+cpty: 21 # kg/tree.yr
+cost: 17 # USD per BTC
+delay: 0
+update: 0
+trigger: 0
