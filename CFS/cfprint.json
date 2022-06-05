@@ -1,0 +1,10 @@
+{
+   "decimals" : "12",
+   "description" : "We want to define a standard for reporting emriession so we avoid double credits",
+   "image" : "cfprint.svg",
+   "intent" : "Agree on what is a footprint for better accountancy",
+   "name" : "Carbon Footprint Standard",
+   "nslabel" : "cfps",
+   "symbol" : "tons",
+   "tokenid" : "cfpsVJTbr5hhnmjmRV9HDm8jWw4kxumgQu74S9USX78"
+}

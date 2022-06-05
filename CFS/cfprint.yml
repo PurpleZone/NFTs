@@ -1,0 +1,10 @@
+--- # carbon footprint standard
+tokenid: cfpsVJTbr5hhnmjmRV9HDm8jWw4kxumgQu74S9USX78
+image: cfprint.svg
+name: "Carbon Footprint Standard"
+symbol: "tons"
+nslabel: cfps
+intent: "Agree on what is a footprint for better accountancy"
+description: "We want to define a standard for reporting emriession so we avoid double credits"
+decimals: 12
+

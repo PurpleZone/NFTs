@@ -1,0 +1,91 @@
+{
+  "confirmationStatus": "confirmed",
+  "transaction": {
+    "signatures": [
+      "49cLQGznWvks4VFMhtTDDVE13wJkmSWbcVK65XhSTQDxL2p2nta2XAGhye8c6GeXkGzb84BW2miXV3rvLQAAkv7L",
+      "3UKmNe4sjQLdLHcyrFEKtLurTKhcKWRSujjDDf6sT16kueLeaASJ9HvE1Es2wkGP2kcT2XPWbWyZZHLVH6ZDmaVr"
+    ],
+    "message": {
+      "header": {
+        "numRequiredSignatures": 2,
+        "numReadonlySignedAccounts": 0,
+        "numReadonlyUnsignedAccounts": 4
+      },
+      "accountKeys": [
+        "Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37",
+        "cfpsVJTbr5hhnmjmRV9HDm8jWw4kxumgQu74S9USX78",
+        "SysvarRent111111111111111111111111111111111",
+        "11111111111111111111111111111111",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr"
+      ],
+      "recentBlockhash": "AKhyA1ytRqi8iNr83Wg5npqMRxDZn5T7LjXzYuhkYsqi",
+      "instructions": [
+        {
+          "programIdIndex": 3,
+          "accounts": [
+            0,
+            1
+          ],
+          "data": "11114XtYk9gGfZoo968fyjNUYQJKf9gdmkGoaoBpzFv4vyaSMBn3VKxZdv7mZLzoyX5YNC"
+        },
+        {
+          "programIdIndex": 4,
+          "accounts": [
+            1,
+            2
+          ],
+          "data": "1HrLaHS15w8EHFyRhcYwLm64pCL5WKmKRfhmjTfqNGBo2Qw"
+        },
+        {
+          "programIdIndex": 5,
+          "accounts": [
+            0
+          ],
+          "data": "9tmw8ZgQdwNAytVaKmSrbkuFgJ3tmRkPoDwden8jB9EBuhbvA9YcWn8nQc8QwtY"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "err": null,
+    "status": {
+      "Ok": null
+    },
+    "fee": 10000,
+    "preBalances": [
+      84635926274,
+      0,
+      1009200,
+      1,
+      953185920,
+      521498880
+    ],
+    "postBalances": [
+      84634454674,
+      1461600,
+      1009200,
+      1,
+      953185920,
+      521498880
+    ],
+    "innerInstructions": [],
+    "logMessages": [
+      "Program 11111111111111111111111111111111 invoke [1]",
+      "Program 11111111111111111111111111111111 success",
+      "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [1]",
+      "Program log: Instruction: InitializeMint",
+      "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2586 of 1400000 compute units",
+      "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success",
+      "Program MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr invoke [1]",
+      "Program log: Signed by Fg2RSRChcR5m1x8wTJWYbA1GD6kcKytcQM12kDNApf37",
+      "Program log: Memo (len 46): \"QmYqP9AWHmP9x9bK4amsooSnntaiJwDQbAiNLNbL8HoRXm\"",
+      "Program MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr consumed 31651 of 1397414 compute units",
+      "Program MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr success"
+    ],
+    "preTokenBalances": [],
+    "postTokenBalances": [],
+    "rewards": []
+  },
+  "blockTime": 1654454929
+}
