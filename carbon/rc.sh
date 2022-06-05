@@ -2,6 +2,7 @@
 # load default
 eval $(cat config.yml | eyml)
 
+if false; then
 # btc wallet
 btcwallet=1GrouNDP5L1WWHJC1emJpRpWhiutgWTg65
 btcwallet=bc1qjtvajnayqg7fnf4eltnmr8gm5xsr7cgpmnem2t
@@ -13,6 +14,7 @@ userwallet=rJCDKYNQv3i6kHDFWbZejzk32qBavHCtJkxrErfwTtC
 userwallet=DfcJnBoDCiiX2n4NbfnVXSX5sd63WfLRBa3E33Z97MkC
 userwallet=FDhJEXbh4Hd79oREXUoAT1NkrcCF4W9SifaHv8HZ5r7H
 userwallet=CarboNQ5A4gaVVhYt7foVdFraXRzV1ykWh5vutNHAoy7
+fi
 
 
 return 0;
