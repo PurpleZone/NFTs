@@ -8,34 +8,42 @@ title: tons, Carbon Footprint Standard
 img[alt=tons] { max-width: 20vw; float: right }
 </style>
 
-Our current governance is flawed, our living condition have worsen,
-and the life is endanger due to so many irresponsible behavior
-We are commited to make a change in this world.
+Carbon credit suffers from the "double credit" problem, which is similar to the double spending problem on blockchains.
 
-We believe we have to roll up our sleves as it would not come form our gouverments
-they have demonstrated over the paste years they are unable to serve our (general) interrest.
+This occurs when someone sequester some carbon and "resale" the credit several time.
+as it is difficult to prove where the carbon goes unless it is "shipped" as by products
 
-What to do ?
-There is power in joining forces, we have readily available social tools,
-communication technologies, immense knowledege sharing capability,
-if carefully orchestrated we can address and solve any problem we want
-(yes any...)
+To avoid the shipping or carbon around, we can tokenize every capture, and keep a book on
+all carbon capture on a globally recognized ledger.
 
-We can stop wars, transition to a no fossil economy, reestablish healthy commerce and support
-between nations etc.
+One straight forward way is to have a fixed universally approved format for carbon capture reporting,
+where each record can be audited. If the format is fixed there can't be 2 different ways to identify a record
+and a hash (SHA256) of a canonical file can be used to locate and fully identified it.
+(no credit is released if the "hash" is already spent !!!)
 
-What does it takes ? simply rallying behind a same goal, gathering critical mass to act.
-when we are acting in synergy to solve a given probleme we have consensue...
-we are innovative we are the solution and nothing can stop us from delivering it.
+```json
+{
+   "Latitude" : "46.5174384",
+   "Longitude" : "6.562264",
+   "co2eq" : "2454.0",
+   "date" : "Sun Jun  5 02:07:36 PM CEST 2022",
+   "debtUSD" : "-184",
+   "energykWh" : "0.0",
+   "ewastkg" : "0.130",
+   "freshwater" : "2000",
+   "location" : "https://goo.gl/maps/E1fuqUNNSmstQTyx8",
+   "origin" : "sig1origin",
+   "pluscode" : "GH87+X4",
+   "priceUSDpkg" : "0.007",
+   "seal" : "QmQh6yg8yhs6LyRHbJWaJLsAqpVukuXgsD7UhPPJ7dCyVM",
+   "valid-until" : "2022/6/21",
+   "witness" : "sig2witness"
+}
+```
 
 
-We are the people, we can set the rules how we want our world to be.
-
-I pick a better one! who's with me ?
 
 
-if you'd like to experiment with a new style of autonomous governance
-to solve our current world crisis, please consider getting the token below :
 
 ```yaml
 intention: Agree on what is a footprint for better accountancy
