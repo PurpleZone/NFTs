@@ -5,7 +5,7 @@ title: tons, Carbon Footprint Standard
 
 ## Carbon Footprint Standard (courtesy @cryptolake2)
 
-![tons](cfprint.svg)
+[![tons](cfprint.svg)][fptk]
 <style>
 img[alt=tons] { max-width: 20vw; float: right }
 </style>
@@ -28,6 +28,8 @@ released if the [hash] is already spent !!!
 
 The token can be "[colored][tcol]" with the footprint hash giving access to the full record of the capture along the journey
 of the carbon credit !
+(an exemple can be seen at the address [cfpsVJTbr5hhnmjmRV9HDm8jWw4kxumgQu74S9USX78][fptk] on Solana.
+it is attached to the record [QmYqP9AWHmP9x9bK4amsooSnntaiJwDQbAiNLNbL8HoRXm][tcol])
 
 and obviously we would need a "lint" service to validate the json file for compliance.
 
