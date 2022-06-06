@@ -8,18 +8,21 @@ title: tons, Carbon Footprint Standard
 img[alt=tons] { max-width: 20vw; float: right }
 </style>
 
-Carbon credit suffers from the "double credit" problem, which is similar to the double spending problem on blockchains.
+Carbon credit suffers from the “double credit” problem, similar to double spending on blockchains.
 
-This occurs when someone sequester some carbon and "resale" the credit several time.
-as it is difficult to prove where the carbon goes unless it is "shipped" as by products
+This occurs when someone sequesters carbon and “resells” the credit
+several times. It is difficult to prove where the carbon goes since it
+is not “shipped” like products.
 
-To avoid the shipping or carbon around, we can [tokenize][fptk] every capture, and keep a book on
-all carbon capture on a globally recognized ledger.
+To avoid this, we can [tokenize][fptk] every capture, and keep a book on all
+carbon captures on a globally recognized ledger.
 
-One straight forward way is to have a fixed universally approved format for carbon capture reporting,
-where each record can be audited. If the format is fixed there can't be 2 different ways to identify a record
-and a hash (SHA256) of a [canonical file][cf] can be used to locate and fully identified it.
-(no credit is released if the "[hash]" is already spent !!!).
+A fixed, universally approved format for carbon capture reporting can
+be used, where each record can be audited. If the format is fixed there
+can’t be 2 different ways to identify a record. A hash (SHA256) of
+a [canonical file][cf] is used for location and idenficiation. No credit is
+released if the [hash] is already spent !!!
+
 
 The token can be "[colored][tcol]" with the footprint hash giving access to the full record of the capture along the journey
 of the carbon credit !
