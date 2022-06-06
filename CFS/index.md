@@ -1,6 +1,8 @@
 ---
 title: tons, Carbon Footprint Standard
 --- 
+<img src=cfprint.png style="display:none">
+
 ## Carbon Footprint Standard (courtesy @cryptolake2)
 
 ![tons](cfprint.svg)
