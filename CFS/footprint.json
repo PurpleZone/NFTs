@@ -1,0 +1,17 @@
+{
+   "Latitude" : "46.5174384",
+   "Longitude" : "6.562264",
+   "co2eq" : "2454.0",
+   "date" : "Sun Jun  5 02:07:36 PM CEST 2022",
+   "debtUSD" : "-184",
+   "energykWh" : "12303487.0",
+   "ewastekg" : "0.130",
+   "freshwaterL" : "2000",
+   "location" : "https://goo.gl/maps/E1fuqUNNSmstQTyx8",
+   "origin" : "sig1origin",
+   "pluscode" : "GH87+X4",
+   "priceUSD/kg" : "0.007",
+   "seal" : "QmQh6yg8yhs6LyRHbJWaJLsAqpVukuXgsD7UhPPJ7dCyVM",
+   "valid-until" : "2022/6/21",
+   "witness" : "sig2witness"
+}
