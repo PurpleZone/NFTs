@@ -1,4 +1,8 @@
 {
+   "collection" : {
+      "family" : "grassroot climate justice",
+      "name" : "climate-coin"
+   },
    "decimals" : "0",
    "description" : "By going back to our roots we can address the urgent crisis before our paralized governments",
    "image" : "deeproot.svg",

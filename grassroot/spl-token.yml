@@ -7,4 +7,8 @@ nslabel: grassroot
 intent: "when our roots run deep"
 description: "By going back to our roots we can address the urgent crisis before our paralized governments"
 decimals: 0
+collection: 
+ name: "climate-coin"
+ family : "grassroot climate justice"
+
 
