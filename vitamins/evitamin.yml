@@ -1,0 +1,16 @@
+--- # evitamin parameters
+protocol: "Lymphedema protocol"
+symbol: "phx-vits"
+file: ingredients.md
+initials: JR
+ingredient_#1: "benzopyrones (Coumarin - vasoconstrictive)"
+ingredient_#2: "saponins"
+ingredient_#3: "kaempferol,quercetin,myricetin, fisetin (flavonoids)"
+ingredient_#4: "oligomeric proanthocyanidins (OPC)"
+ingredient_#5: "collagen (to regain valve elasticity)"
+ingredient_#6: "pycnogenol (maritim pine bark extract)"
+exercices: "movement,compression"
+nutrition: "Onions,kale,lettuce,tomatoes,apples,grapes,berries,tea, red wine,fishbones"
+minter: phxH6DzoPNkMDTMTqKHdSjwUxoEgjjDTw8xZXDzgVZ8
+keypair: "/keybase/private/michelc/SOLkeys/phxH6DzoPNkMDTMTqKHdSjwUxoEgjjDTw8xZXDzgVZ8.json"
+

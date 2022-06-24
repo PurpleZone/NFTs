@@ -1,0 +1,5 @@
+--- # jitter parameters
+n: 7
+r: .03
+mr: 0.02
+cr: -0.71
