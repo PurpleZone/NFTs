@@ -34,6 +34,8 @@ desc: "$title"
 symbol: "$symbol"
 initials: "$initials"
 series: "S$seed"
+sig: $sig
+n: $n
 EOT
 echo qmid: $qmid | cat nft-meta.yml params.yml $yamlf nft-mutable.yml - | grep -v '^---'| \
 perl -S setnftattributes.pl $jsonf | json_xs | grep ini
@@ -57,10 +59,10 @@ fi
 keypair=${keypair:-$HOME/.config/solana/devnet.json}
 wallet=$(solana address -k $keypair)
 echo "wallet: $wallet"
-solana balance  -u devnet $wallet
+solbal=$(solana balance  -u devnet $wallet | cut -d' ' -f1)
+if [ $(echo "$solbal < 1.0" | bc -l) = '1' ]; then
 solana airdrop 1 $wallet
-
-exit;
+fi
 
 livedate=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 grep -v '^#' > nft-config.json <<EOF
