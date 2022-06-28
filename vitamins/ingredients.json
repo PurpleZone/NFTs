@@ -7,6 +7,7 @@
     "attributes": [
         {"trait_type": "name", "value": "Lymphedema protocol"},
         {"trait_type": "series", "value": "Sx"},
+        {"trait_type": "i", "value": "n/a"},
         {"trait_type": "initials", "value": "mgc"},
         {"trait_type": "intent", "value": "source intention"},
         {"trait_type": "timestamp", "value": "1652120160"},

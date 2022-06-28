@@ -1,16 +1,65 @@
---- # evitamin parameters
-protocol: "Lymphedema protocol"
-symbol: "phx-vits"
-file: ingredients.md
-initials: JR
-ingredient_#1: "benzopyrones (Coumarin - vasoconstrictive)"
-ingredient_#2: "saponins"
-ingredient_#3: "kaempferol,quercetin,myricetin, fisetin (flavonoids)"
-ingredient_#4: "oligomeric proanthocyanidins (OPC)"
-ingredient_#5: "collagen (to regain valve elasticity)"
-ingredient_#6: "pycnogenol (maritim pine bark extract)"
-exercices: "movement,compression"
-nutrition: "Onions,kale,lettuce,tomatoes,apples,grapes,berries,tea, red wine,fishbones"
+---
+gw: https://ipfs.safewatch.xyz
+bafy: bafyXYZ
+mutkey: QmaEHEM1jz1rgR6Z9A2JzcpyekQvW96fUweQ15g6nP924w
+qmhash: QmQopKmD36AaeiniLtcv9m3VyDqyraNPFexAAzCbTFVirp
 minter: phxH6DzoPNkMDTMTqKHdSjwUxoEgjjDTw8xZXDzgVZ8
-keypair: "/keybase/private/michelc/SOLkeys/phxH6DzoPNkMDTMTqKHdSjwUxoEgjjDTw8xZXDzgVZ8.json"
-
+keypair: "/keybase/private/michelc/SOLkeys/${minter}.json"
+--- # evitamin parameters
+title: "PhenomX e-Vitamins"
+name: "evitamin"
+symbol: "vits"
+description: A cocktail of Vitamins and supplements for healing Lymphedema and Chronic Venous insufficiency
+external_url: "${gw}/ipfs/${qmhash}/"
+image: https://nftstorage.link/ipfs/bafybeifqhjejavqmvwk6c37ibm7xxk6ijrre3d2p44oss33ozvx4fay2ii/0.png
+#logoURI: "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/vitamins/evitamin.svg"
+image: "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/vitamins/evitamin.svg"
+mintAuthority: ${minter}
+updateAuthority: ${minter}
+properties:
+  files:
+  - type: image/svg
+    uri: https://ipfs.safewatch.xyz/ipns/${mutkey}/assets/0.svg
+  - type: application/json
+    uri: https://ipfs.safewatch.xyz/ipns/${mutkey}/assets/0.json
+  - type: text/plain
+    uri: https://ipfs.safewatch.xyz/ipns/${mutkey}/ingredients.md
+  creators:
+  - address: DrMik1ApZAY7rS5k6AyVR3Jt2sfs3uWW8RFk6PrKUFEQ
+    share: 27
+  - address: DrcoLLYAxJpyPNSi3CTtW59ksGFARo4W4spGz5q92UQ7
+    share: 70
+  - address: "${minter}"
+    share: 3
+attributes:
+ - protocol: "Lymphedema protocol"
+ - intent: QmcMdJybHtkCsc6XNwvi4kfnfnReKHkqeYGUS6648nXfuT
+ - recipient: 7qSdMtojPDYsKr8QT7knoEMhvdzAdFDjF553aGaoc99M
+ - type: LP
+ - label: vitamins
+ - series: S217207630
+ - lot: 6
+ - supply: 27
+ - timestamp: 1652120160
+ - ingredient_#1: "benzopyrones (Coumarin - vasoconstrictive)"
+ - ingredient_#2: "saponins"
+ - ingredient_#3: "kaempferol,quercetin,myricetin, fisetin (flavonoids)"
+ - ingredient_#4: "oligomeric proanthocyanidins (OPC)"
+ - ingredient_#5: "collagen (to regain valve elasticity)"
+ - ingredient_#6: "pycnogenol (maritim pine bark extract)"
+ - exercices: "movement,compression"
+ - nutrition: "Onions,kale,lettuce,tomatoes,apples,grapes,berries,tea, red wine,fishbones"
+ - qmhash: "${qmhash}"
+ - mutable_key: ~
+collection:
+  family: Phenomx virtual vitamins
+  name: "${symbol} collection"
+extensions:
+  coingeckoId: "solana"
+  description: A cocktail of Vitamins and supplements for healing Lymphedema and Chronic Venous insufficiency
+  whitepaper: "https://PurpleZone.github.io/NFTs/vitamins/whitepaper.pdf"
+  linkedin: "https://www.linkedin.com/company/eco-organic-technology"
+  imageUrl: "https://${bafy}.ipfs.nftstorage.link/?ext=svg"
+  website: "https://PurpleZone.github.io/NFTs/vitamins/"
+  
+seller_fee_basis_points: 240

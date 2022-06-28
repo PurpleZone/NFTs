@@ -354,6 +354,16 @@
          ry="12.606874"
          transform="rotate(45)"
          rx="12.606874" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.3;stroke:none"
+         x="2467.7002"
+         y="-169.91025"
+         id="nn"><tspan
+           id="tspan50104"
+           x="2467.7002"
+           y="-169.91025"
+           style="fill:#ffffff;fill-opacity:0.3">#nn</tspan></text>
     </g>
     <g
        id="g1271"
@@ -364,10 +374,6 @@
          style="fill:url(#linearGradient55515);fill-opacity:1;stroke-width:0.32"
          d="m -708.0843,-58.344567 c -76.274,-1.602283 -156.8332,39.949232 -186.3177,112.802421 -16.7661,38.3828 -9.0874,81.035376 -10.9693,121.566076 -0.005,77.59071 -7e-4,155.18142 -0.002,232.77212 137.9193,0 275.8385,0 413.7578,0 -0.2013,-102.79901 0.4781,-205.60714 -0.5324,-308.39855 -2.4579,-58.054586 -42.7121,-109.263763 -94.0323,-134.995973 -37.3855,-19.975849 -80.0615,-25.280947 -121.9041,-23.746094 z" />
     </g>
-    <path
-       id="path1291-6"
-       style="opacity:0.4;fill:#f2f2f2;stroke-width:0.32"
-       d="m 324.52367,57.818483 c -25.2879,-1.191374 -62.8167,4.599512 -85.2925,16.168212 -22.4759,11.568699 -41.8988,28.915215 -54.9751,50.835085 -15.1618,24.03825 -20.3789,52.91596 -18.8583,80.99234 2.1216,-3.77647 7.527,-20.45011 12.725,-27.26178 28.1932,-46.62552 96.0419,-73.31394 149.9209,-70.06588 46.819,4.80657 108.2697,30.58271 132.0314,71.88002 4.5733,4.98314 10.1501,25.21124 11.5152,24.43978 1.6494,-29.42147 -5.1742,-59.32858 -21.4018,-84.26398 -11.9823,-18.41199 -28.4788,-33.578489 -47.4396,-44.399215 -18.9609,-10.820727 -56.3859,-17.295682 -78.2252,-18.324582 z" />
     <g
        id="g1247"
        transform="translate(528.44687,98.087086)"
@@ -377,6 +383,10 @@
          d="m -240.60274,907.19506 c -62.03461,-3.14486 -117.98366,-31.18435 -151.96727,-76.16012 -17.50053,-23.16116 -27.37003,-47.28583 -31.15456,-76.15309 l -0.69221,-5.28 -0.0969,-179.76 -0.0969,-179.76 h 109.87068 c 60.42887,0 153.5266,0.0959 206.88388,0.21315 l 97.01322,0.21315 -0.003,176.18685 c -0.003,115.08256 -0.11504,177.79606 -0.32573,180.82685 -2.50678,36.05718 -17.59421,69.91213 -43.28147,97.12 -13.26691,14.05225 -27.50342,25.30141 -43.94093,34.72048 -27.25875,15.61987 -55.96285,24.40368 -89.532,27.39795 -6.39078,0.57002 -43.90153,0.87962 -52.6767,0.43478 z"
          id="path1251-3" />
     </g>
+    <path
+       id="path1291-6"
+       style="opacity:0.4;fill:#f2f2f2;stroke-width:0.32"
+       d="m 324.52367,57.818483 c -25.2879,-1.191374 -62.8167,4.599512 -85.2925,16.168212 -22.4759,11.568699 -41.8988,28.915215 -54.9751,50.835085 -15.1618,24.03825 -20.3789,52.91596 -18.8583,80.99234 2.1216,-3.77647 7.527,-20.45011 12.725,-27.26178 28.1932,-46.62552 96.0419,-73.31394 149.9209,-70.06588 46.819,4.80657 108.2697,30.58271 132.0314,71.88002 4.5733,4.98314 10.1501,25.21124 11.5152,24.43978 1.6494,-29.42147 -5.1742,-59.32858 -21.4018,-84.26398 -11.9823,-18.41199 -28.4788,-33.578489 -47.4396,-44.399215 -18.9609,-10.820727 -56.3859,-17.295682 -78.2252,-18.324582 z" />
     <rect
        style="opacity:0.78;fill:url(#linearGradient53597);fill-opacity:1;stroke:none;stroke-opacity:1"
        id="rect53515"
@@ -389,14 +399,10 @@
        id="path1295"
        style="opacity:1;fill:url(#linearGradient72287);fill-opacity:1;stroke-width:0.32"
        d="m 197.29587,120.80626 c -5.389,-0.18565 -8.1518,0.16288 -12.084,1.52539 -11.4738,3.9756 -19.1762,11.98743 -22.6016,23.50976 l -0.666,2.24024 -0.086,169.83984 -0.086,169.8398 0.1524,0.42 -0.07,-0.1 -0.2208,33.039 c -0.1211,18.172 -0.1714,104.1752 -0.1113,191.1192 0.1042,150.7705 0.1355,158.1914 0.6836,160.4804 1.4526,6.0665 4.256,11.2781 8.4336,15.6778 5.3816,5.6677 11.4082,8.9882 18.8613,10.3906 3.9572,0.7446 10.951,0.4701 14.9942,-0.5879 3.5304,-0.9237 8.0186,-2.9555 11.1113,-5.0312 2.4861,-1.6686 7.0603,-6.2432 8.6367,-8.6368 2.8056,-4.2599 4.7652,-9.2612 5.3399,-13.6289 0.354,-2.6913 0.7288,-322.479 0.4238,-361.623 l -0.07,-21.5195 v -168.2794 c 0,-146.50692 -0.062,-168.624 -0.4707,-170.95894 -1.3274,-7.5792 -5.1085,-14.22013 -11.084,-19.46484 -3.1169,-2.73574 -5.202,-4.06387 -8.8535,-5.64258 -4.2287,-1.82825 -7.051,-2.43088 -12.2324,-2.60937 z" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:109.333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.76;fill:#ffffff;stroke-width:1.279"
-       id="ini"><textPath
-         xlink:href="#line"
-         id="textPath7290">{initials}<tspan
-   id="tspan61547"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:109.333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.279" /></textPath></text>
+    <path
+       style="display:none;opacity:0.01;fill:none;stroke:#000000;stroke-width:1.40609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 250.45905,311.75385 c 252.22449,-7.23517 229.12874,45.4348 229.12874,45.4348"
+       id="line" />
     <g
        id="bfly"
        transform="matrix(-1.1178383,0,0,1.1178383,1508.7152,-942.18798)"
@@ -418,19 +424,25 @@
          style="fill:url(#linearGradient327385);fill-opacity:1"
          d="m 723.87513,718.17617 c -9.97586,-0.73556 -17.82216,4.07924 -23.8745,14.49774 -4.42036,7.60931 -5.42676,19.93308 -2.93113,35.88134 2.42342,15.48544 1.22264,24.08057 -5.40522,38.67312 -3.7144,8.17795 -4.76249,11.6661 -5.42901,18.0896 -0.87614,8.44593 -0.43734,10.16391 6.94426,27.22339 1.36689,3.15878 4.37075,13.53178 6.67463,23.05223 3.07821,12.71953 5.48427,19.989 9.0766,27.4133 8.14526,16.83437 19.54006,58.81022 25.17144,92.72953 3.74533,22.55838 4.50608,33.66668 3.65473,53.32738 l -0.67953,15.7087 5.21067,-6.0618 c 35.52867,-41.3337 59.75324,-115.4215 60.48194,-184.96882 0.78229,-74.67234 -19.22823,-125.33077 -58.56453,-148.25868 -7.59218,-4.42518 -14.34479,-6.86565 -20.33035,-7.30703 z m 7.26974,37.35079 c 5.78837,0.51561 12.69617,9.05013 20.56541,25.40702 14.3484,29.82449 17.53154,49.65884 9.10057,56.71076 -4.31322,3.60764 -6.87854,3.02223 -11.38066,-2.60001 -4.38834,-5.48024 -7.36137,-12.92394 -14.99844,-37.56074 -5.98202,-19.29768 -7.7207,-27.75306 -7.11259,-34.5798 0.51804,-5.81658 1.43734,-7.58995 3.82571,-7.37723 z m -13.70179,64.03692 c 5.34696,0.47617 11.74917,10.96926 14.20522,23.28369 1.58835,7.96373 -0.34905,27.14449 -2.72035,26.93334 -0.374,-0.0325 -1.08785,-1.60353 -1.5855,-3.48848 -0.49767,-1.8849 -3.00112,-8.31992 -5.56387,-14.29998 -4.94316,-11.53426 -9.24091,-24.57626 -8.99794,-27.30433 0.25596,-2.87371 2.47983,-5.31863 4.66244,-5.12424 z m 44.65139,40.3685 c 7.3411,0.36412 12.45411,10.66151 14.65992,29.78124 3.02179,26.19314 -3.06273,67.33468 -15.59367,105.42092 -2.73565,8.31506 -5.27902,16.12556 -5.65005,17.35806 -0.37096,1.2326 -0.87208,2.0032 -1.11496,1.7127 -0.24312,-0.2906 0.51415,-5.0977 1.68295,-10.6837 1.16881,-5.58588 2.63111,-16.04281 3.25005,-23.23681 1.78157,-20.70719 0.81817,-32.55627 -5.07934,-62.47229 -4.2671,-21.64613 -5.12226,-29.39667 -4.33155,-39.25394 0.82881,-10.33124 3.8993,-16.6045 8.89521,-18.17105 1.13767,-0.3568 2.23301,-0.50697 3.28178,-0.4549 z" />
     </g>
-    <path
-       style="display:none;opacity:0.01;fill:none;stroke:#000000;stroke-width:1.40609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 250.45905,311.75385 c 252.22449,-7.23517 229.12874,45.4348 229.12874,45.4348"
-       id="line" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:Ubuntu;fill:#ffffff;fill-opacity:1;stroke:none;-inkscape-font-specification:'Ubuntu, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-       x="641.37732"
-       y="918.69806"
-       id="sig"><tspan
-         id="tspan50104"
-         x="641.37732"
-         y="918.69806">#{sig}</tspan></text>
+       style="font-style:normal;font-weight:normal;font-size:70.2184px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#e2d2ed;fill-opacity:1;stroke:none;stroke-width:1.75546"
+       x="-475.86755"
+       y="700.39642"
+       id="label"
+       transform="matrix(0,-1.4424875,0.69324691,0,0,0)"><tspan
+         id="tspan17173"
+         x="-475.86755"
+         y="700.39642"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.2184px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e2d2ed;fill-opacity:1;stroke-width:1.75546">Vitamins</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:109.333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.76;fill:#ffffff;stroke-width:1.279"
+       id="ini"><textPath
+         xlink:href="#line"
+         id="textPath7290">{initials}<tspan
+   id="tspan61547"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:109.333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.279" /></textPath></text>
   </g>
   <text
      xml:space="preserve"
@@ -441,15 +453,14 @@
        id="tspan3449"
        x="468.63412"
        y="1221.2367">{qmhash}</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:70.2184px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#e2d2ed;fill-opacity:1;stroke:none;stroke-width:1.75546"
-     x="-526.75818"
-     y="600.26465"
-     id="text17175"
-     transform="matrix(0,-1.4424875,0.69324691,0,0,0)"><tspan
-       id="tspan17173"
-       x="-526.75818"
-       y="600.26465"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.2184px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e2d2ed;stroke-width:1.75546;fill-opacity:1">Vitamins</tspan></text>
+ <script
+   src="evitamin.js"
+   type="text/javascript"
+   id="dynscript">
+!(async function() {
+console.log('Running evitamin.js script from',location.pathname);
+// import 'evitamin.js'
+})();
+ </script>
+
 </svg>
