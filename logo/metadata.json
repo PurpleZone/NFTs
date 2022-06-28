@@ -1,0 +1,24 @@
+{
+   "attributes" : [
+      {
+         "trait_type" : "website",
+         "value" : "https://phenomxhealth.com"
+      },
+      {
+         "trait_type" : "PNG file",
+         "value" : "https://purpleZone.github.io/NFTs/generic/token.png"
+      },
+      {
+         "trait_type" : "mutable key",
+         "value" : null
+      }
+   ],
+   "decimals" : "2",
+   "image" : "https://purpleZone.github.io/NFTs/generic/token.svg",
+   "mint" : "3vWrgWxvTi3sW9ecaF83MzqavSbdrmr5UreLe7digWXX",
+   "mintAuthority" : "phxH6DzoPNkMDTMTqKHdSjwUxoEgjjDTw8xZXDzgVZ8",
+   "name" : "Generic Token",
+   "symbol" : ".",
+   "updateAuthority" : "phxH6DzoPNkMDTMTqKHdSjwUxoEgjjDTw8xZXDzgVZ8",
+   "uri" : "https://purpleZone.github.io/NFTs/generic"
+}

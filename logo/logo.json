@@ -1,0 +1,15 @@
+{
+   "attributes" : [
+      { "trait_type" : "website", "value" : "https://phenomxhealth.com" },
+      {  "trait_type" : "PNG file", "value" : "https://purpleZone.github.io/NFTs/logo/logo.png" },
+      {  "trait_type" : "mutable key", "value" : null }
+   ],
+   "decimals" : "0",
+   "image" : "https://purpleZone.github.io/NFTs/logo/logo.svg",
+   "mint" : null,
+   "mintAuthority" : "phxH6DzoPNkMDTMTqKHdSjwUxoEgjjDTw8xZXDzgVZ8",
+   "name" : "Logo Token",
+   "symbol" : ".",
+   "updateAuthority" : "phxH6DzoPNkMDTMTqKHdSjwUxoEgjjDTw8xZXDzgVZ8",
+   "uri" : "https://purpleZone.github.io/NFTs/logo"
+}
