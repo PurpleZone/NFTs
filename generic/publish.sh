@@ -1,7 +1,10 @@
 #
 
+# https://token-creator-lac.vercel.app/ 
+
 top=$(git rev-parse --show-toplevel)
-name=${top##*/}
+name=${PWD##*/}
+echo "name: $name"
 image=${1:-token.svg}
 mint=3vWrgWxvTi3sW9ecaF83MzqavSbdrmr5UreLe7digWXX
 
