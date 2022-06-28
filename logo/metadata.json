@@ -6,19 +6,19 @@
       },
       {
          "trait_type" : "PNG file",
-         "value" : "https://purpleZone.github.io/NFTs/generic/token.png"
+         "value" : "https://purpleZone.github.io/NFTs/logo/logo.png"
       },
       {
          "trait_type" : "mutable key",
          "value" : null
       }
    ],
-   "decimals" : "2",
-   "image" : "https://purpleZone.github.io/NFTs/generic/token.svg",
+   "decimals" : "0",
+   "image" : "https://purpleZone.github.io/NFTs/logo/logo.svg",
    "mint" : "3vWrgWxvTi3sW9ecaF83MzqavSbdrmr5UreLe7digWXX",
    "mintAuthority" : "phxH6DzoPNkMDTMTqKHdSjwUxoEgjjDTw8xZXDzgVZ8",
-   "name" : "Generic Token",
+   "name" : "Logo Token",
    "symbol" : ".",
    "updateAuthority" : "phxH6DzoPNkMDTMTqKHdSjwUxoEgjjDTw8xZXDzgVZ8",
-   "uri" : "https://purpleZone.github.io/NFTs/generic"
+   "uri" : "https://purpleZone.github.io/NFTs/logo"
 }
