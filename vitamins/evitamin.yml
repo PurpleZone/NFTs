@@ -5,6 +5,7 @@ mutkey: QmaEHEM1jz1rgR6Z9A2JzcpyekQvW96fUweQ15g6nP924w
 qmhash: QmQopKmD36AaeiniLtcv9m3VyDqyraNPFexAAzCbTFVirp
 minter: phxH6DzoPNkMDTMTqKHdSjwUxoEgjjDTw8xZXDzgVZ8
 keypair: "/keybase/private/michelc/SOLkeys/${minter}.json"
+create_url: https://token-creator-lac.vercel.app/
 --- # evitamin parameters
 title: "PhenomX e-Vitamins"
 name: "evitamin"
