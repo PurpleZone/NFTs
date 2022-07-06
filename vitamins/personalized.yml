@@ -1,15 +1,1 @@
----
-name: PhenomX e-Vitamins
-recipient: Ștefan E. Ionescu
-initials: SEI
-wallet: DUMS5DytjNcc1qnNCvdYeLYW2t9heUMifrHjwhaDTDRV
-email: sei@private-int-consulting.com
-tel: "+40 722 403 797"
-mint: EYYH9mAru3vBV3LYMbFWB9pdgWT4ysuK2vzqRbBSgk2q
-series: 160952784
-lot: 226
-note: |-
-  Welcome to PhenomX! We hope you enjoy your virtual vitamin.
-  Sign up on our website <https://phenomx.ch> to learn more about
-  what you can do with your Vitamin in the coming months!
-signature: Dr. Draper
+personalized/_data/personalized.yml
