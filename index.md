@@ -3,6 +3,11 @@ title: Tokens and NFTs catalog
 ---
 ## Token and NFT catalog
 
+- Climate FireFly 
+  - https://solscan.io/token/cLimizHeLvuHKRrrRMpjnYKChycMA2C7FLRc8ArBtBn?cluster=devnet
+  - https://solscan.io/account/cLimizHeLvuHKRrrRMpjnYKChycMA2C7FLRc8ArBtBn?cluster=devnet
+  - https://explorer.solana.com/address/cLimizHeLvuHKRrrRMpjnYKChycMA2C7FLRc8ArBtBn?cluster=devnet
+
 - Green Bitcoin  [#BTC-G][11] ([BTCGZYMqyfA8WBKNgwcpZn21ruNBvHvbfnrYNsd4xtTZ][12])
 <br> ![BTCG](https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/btcg/btc-g.svg)
 
