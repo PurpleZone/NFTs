@@ -1,4 +1,7 @@
---- # Non Fungible Wallet
+---
+title: Non Fungible Purse
+---
+## Non Fungible Purse
 
 ![tophat](tophat.svg)
 <style>
