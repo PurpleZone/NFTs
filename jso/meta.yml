@@ -1,6 +1,15 @@
 --- # 
+tokenid: HurYoyU4bGryqPUGF8SUmivfFmcdhYKFtpxYdbfLX9N7
 name: Stop Oil to Save Soil
 symbol: SOSS
 metaurl: https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/jso/metadata.json
 amount: 0.0001
 decimals: 4
+url: https://explorer.solana.com/address/HurYoyU4bGryqPUGF8SUmivfFmcdhYKFtpxYdbfLX9N7?cluster=devnet
+ata: GcEhBGdnMMgaEhtgJBUZ4FBJ2hbrLHpFTDHj32RU3t6D
+owner: 6NvHFsKtPZ2GETwYKiJVXk9h9ShxMYwThp3xMXYCvjZq
+repo_url: https://github.com/PurpleZone/NFTs/tree/master/jso
+website: https://PurpleZone.github.io/NFTs/jso/barrel.svg
+cdn_url:
+  - https://www.jsdelivr.com/package/gh/PurpleZone/NFTs
+ - https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@42b1d39b7bd17d1f69560d840edc51fe1a5a5d8f/jso/
