@@ -30,9 +30,9 @@
       "whitepaper" : "https://PurpleZone.github.io/NFTs/eden/eden-coin.pdf"
    },
    "external_url" : "https://PurpleZone.github.io/NFTs/eden/eden-coin.pdf",
-   "image" : "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/eden/edencoin.svg",
+   "image" : "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/eden/alliance.webp",
    "logoURI" : "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/eden/eden-coin.svg",
-   "mint" : "67LFyGDurTaN6TKtZaa8YyrYscKBc8rtA63a4vzMaJuD",
+   "mint" : "FoLfcRMRNQjk2cfDy9TP6RSkEVjSG6E6suYv4mGqB5A4",
    "mintAuthority" : "6NvHFsKtPZ2GETwYKiJVXk9h9ShxMYwThp3xMXYCvjZq",
    "name" : "eden-coin",
    "sellerFeeBasisPoints" : "240",
