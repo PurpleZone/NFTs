@@ -1,11 +1,11 @@
 {
    "amount" : "0.0001",
    "decimals" : "3",
-   "decription" : "The new Eden Coin to restore humanity and climate balance",
+   "decription" : "The new Eden Coin backed by the value of life with the mission to restore humanity and climate balance ",
    "image" : "eden-coin.svg",
    "intent" : "Humanity reboot: transforming the value system",
    "mint" : "67LFyGDurTaN6TKtZaa8YyrYscKBc8rtA63a4vzMaJuD",
    "name" : "Eden Coin",
-   "symbol" : "E$",
+   "symbol" : "EDC",
    "uri" : "https://raw.githubusercontent.com/PurpleZone/NFTs/master/eden/metadata.json"
 }
