@@ -1,6 +1,7 @@
 {
    "amount" : "0.0001",
    "decimals" : "3",
+   "meta-url" : "https://raw.githubusercontent.com/PurpleZone/NFTs/master/eden/metadata.json",
    "name" : "eden-coin Coin",
    "symbol" : "eden"
 }
