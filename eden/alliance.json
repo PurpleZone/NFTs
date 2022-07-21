@@ -1,0 +1,48 @@
+{
+   "attributes" : [
+      {
+         "trait_type" : "intent",
+         "value" : "eden (EDC), making crypto the eco-organic way"
+      },
+      {
+         "trait_type" : "tagline",
+         "value" : "The value of life"
+      },
+      {
+         "trait_type" : "website",
+         "value" : "https://PurpleZone.github.io/NFTs/eden/"
+      },
+      {
+         "trait_type" : "PDF file",
+         "value" : "https://PurpleZone.github.io/NFTs/eden/eden-coin.pdf"
+      },
+      {
+         "trait_type" : "mutable key",
+         "value" : "QmUnrCWnH6tiNmkCm87DLm3SLwqg8bCoRu14gUMTDbohFV"
+      }
+   ],
+   "chainId" : "103",
+   "extensions" : {
+      "coingeckoId" : "solana",
+      "description" : "",
+      "telegram" : "https://t.me/cryptolake2",
+      "website" : "https://PurpleZone.github.io/NFTs/eden/",
+      "whitepaper" : "https://PurpleZone.github.io/NFTs/eden/eden-coin.pdf"
+   },
+   "external_url" : "https://PurpleZone.github.io/NFTs/eden/eden-coin.pdf",
+   "image" : "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/eden/edencoin.svg",
+   "logoURI" : "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/eden/eden-coin.svg",
+   "mint" : "67LFyGDurTaN6TKtZaa8YyrYscKBc8rtA63a4vzMaJuD",
+   "mintAuthority" : "6NvHFsKtPZ2GETwYKiJVXk9h9ShxMYwThp3xMXYCvjZq",
+   "name" : "eden-coin",
+   "sellerFeeBasisPoints" : "240",
+   "symbol" : "EDC",
+   "tags" : [
+      "green-coin",
+      "community-token",
+      "utility-token",
+      "colored-token"
+   ],
+   "tokenStandard" : "1",
+   "updateAuthority" : "6NvHFsKtPZ2GETwYKiJVXk9h9ShxMYwThp3xMXYCvjZq"
+}
