@@ -7,40 +7,12 @@
    viewBox="0 0 143.95425 143.95425"
    version="1.1"
    id="svg116295"
-   inkscape:version="1.1 (1:1.1+202105261518+ce6663b3b7)"
-   sodipodi:docname="eden-coin.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview116297"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="0.75187991"
-     inkscape:cx="127.01496"
-     inkscape:cy="441.55988"
-     inkscape:window-width="1848"
-     inkscape:window-height="1035"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
   <defs
      id="defs116292">
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient11137"
        id="linearGradient116193"
        x1="157.04518"
@@ -66,8 +38,6 @@
     </linearGradient>
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-46.836395,-31.78907)">
     <circle
@@ -112,23 +82,6 @@
            id="textPath5539-0"><tspan
              id="tspan17559-4"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.19188px;font-family:Metavers;-inkscape-font-specification:'Metavers, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">THE FUTURE NOW</tspan></textPath></text>
-    </g>
-    <g
-       id="g24025-4-4"
-       transform="matrix(1,0,0,1.1718297,55.556825,-46.623407)">
-      <path
-         style="display:inline;opacity:0.01;fill:#000000;fill-opacity:0;stroke:#400960;stroke-width:0.267366px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 18.128694,111.40683 c 0,0 4.178268,-25.866711 45.127983,-25.929836 40.949713,-0.06312 45.127983,25.929836 45.127983,25.929836"
-         id="line-7-2-4" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.12488px;line-height:1.25;font-family:Metavers;-inkscape-font-specification:'Metavers, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         id="name-0-4"><textPath
-           xlink:href="#line-7-2-4"
-           startOffset="50%"
-           id="textPath1610-7">EDEN COIN<tspan
-   id="tspan17559-5-6"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.12488px;font-family:Metavers;-inkscape-font-specification:'Metavers, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583" /></textPath></text>
     </g>
     <g
        id="leaf-8"
@@ -176,6 +129,23 @@
            style="fill:none;stroke:#008000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
            transform="rotate(-45)" />
       </g>
+    </g>
+    <g
+       id="g24025-4-4"
+       transform="matrix(1,0,0,1.1718297,55.556825,-46.623407)">
+      <path
+         style="display:inline;opacity:0.01;fill:#000000;fill-opacity:0;stroke:#400960;stroke-width:0.267366px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 18.128694,111.40683 c 0,0 4.178268,-25.866711 45.127983,-25.929836 40.949713,-0.06312 45.127983,25.929836 45.127983,25.929836"
+         id="line-7-2-4" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.12488px;line-height:1.25;font-family:Metavers;-inkscape-font-specification:'Metavers, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         id="name-0-4"><textPath
+           xlink:href="#line-7-2-4"
+           startOffset="50%"
+           id="textPath1610-7">GREEN EDEN COIN<tspan
+   id="tspan17559-5-6"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.12488px;font-family:Metavers;-inkscape-font-specification:'Metavers, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583" /></textPath></text>
     </g>
   </g>
 </svg>
