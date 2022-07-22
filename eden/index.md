@@ -24,6 +24,4 @@ title: eden coin (EDC)
 
 
 
-<style>
-image { max-width: 20vw; float: right }
-</style>
+<style>image { max-width: 20vw; float: right }</style>
