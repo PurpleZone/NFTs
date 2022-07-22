@@ -2,7 +2,7 @@
    "attributes" : [
       {
          "trait_type" : "intent",
-         "value" : "eden (EDC), making crypto the eco-organic way"
+         "value" : "green eden (GEC), making crypto the eco-organic way"
       },
       {
          "trait_type" : "tagline",
@@ -30,8 +30,8 @@
       "whitepaper" : "https://PurpleZone.github.io/NFTs/eden/eden-coin.pdf"
    },
    "external_url" : "https://PurpleZone.github.io/NFTs/eden/eden-coin.pdf",
-   "image" : "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/eden/edencoin.svg",
-   "logoURI" : "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/eden/eden-coin.svg",
+   "image" : "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/eden/green-eden-coin.svg",
+   "logoURI" : "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/eden/green-eden-coin.svg",
    "mint" : "67LFyGDurTaN6TKtZaa8YyrYscKBc8rtA63a4vzMaJuD",
    "mintAuthority" : "6NvHFsKtPZ2GETwYKiJVXk9h9ShxMYwThp3xMXYCvjZq",
    "name" : "eden-coin",
