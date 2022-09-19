@@ -1,0 +1,28 @@
+{
+   "attributes" : [
+      {
+         "trait_type" : "website",
+         "value" : "https://lagorge.com"
+      },
+      {
+         "trait_type" : "linkedin url",
+         "value" : "https://www.linkedin.com/company/laforgeincubator/"
+      },
+      {
+         "trait_type" : "PNG file",
+         "value" : "https://purpleZone.github.io/NFTs/lagorge/laforgecoin.png"
+      },
+      {
+         "trait_type" : "mutable key",
+         "value" : "QmTnaFQzLRKU4qEce58SgdMBbAmx9hvUeBsTNwX6NBt8ma"
+      }
+   ],
+   "decimals" : "4",
+   "image" : "https://purpleZone.github.io/NFTs/laforge/laforgecoin.svg",
+   "mint" : null
+   "mintAuthority" : "6NvHFsKtPZ2GETwYKiJVXk9h9ShxMYwThp3xMXYCvjZq",
+   "name" : "La Forge Coin",
+   "symbol" : "LF",
+   "updateAuthority" : "6NvHFsKtPZ2GETwYKiJVXk9h9ShxMYwThp3xMXYCvjZq",
+   "uri" : "https://purpleZone.github.io/NFTs/laforge"
+}
