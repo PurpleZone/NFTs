@@ -90,5 +90,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Virgil 3 YOFF';-inkscape-font-specification:'Virgil 3 YOFF, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;direction:ltr;text-anchor:start;white-space:pre;fill:#000000"
        direction="ltr"
        id="text26">HPT</text>
-  </g>
+ </g>
+ <script>
+    console.log('SVG: redirection');
+    location.href='https://phenomxhealth.com/'
+ </script>
 </svg>
