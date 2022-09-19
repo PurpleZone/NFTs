@@ -21,10 +21,11 @@
   <rect
      x="0"
      y="0"
-     width="88.20617172280936"
-     height="96.81143627460011"
+     width="88.206169"
+     height="96.81144"
      fill="#ffffff"
-     id="rect6" />
+     id="rect6"
+     style="display:none;fill:#c3c3c3;fill-opacity:1" />
   <g
      stroke-linecap="round"
      transform="translate(10 10) rotate(0 31.363636363636346 38.18181818181813)"
