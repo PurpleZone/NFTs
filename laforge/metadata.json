@@ -10,7 +10,7 @@
       },
       {
          "trait_type" : "PNG file",
-         "value" : "https://purpleZone.github.io/NFTs/lagorge/laforgecoin.png"
+         "value" : "https://purpleZone.github.io/NFTs/laforge/laforgecoin.png"
       },
       {
          "trait_type" : "mutable key",
@@ -19,7 +19,7 @@
    ],
    "decimals" : "4",
    "image" : "https://purpleZone.github.io/NFTs/laforge/laforgecoin.svg",
-   "mint" : null
+   "mint" : "AHgBBN1WStQqh7R3G7tGaa7SNngaeKQJWRAKkm5uVe7",
    "mintAuthority" : "6NvHFsKtPZ2GETwYKiJVXk9h9ShxMYwThp3xMXYCvjZq",
    "name" : "La Forge Coin",
    "symbol" : "LF",
