@@ -1,18 +1,28 @@
   File: coinset.json
-  Size: 5083      	Blocks: 16         IO Block: 4096   regular file
-Device: 811h/2065d	Inode: 215133111   Links: 1
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 10302h/66306d	Inode: 6270652     Links: 1
 Access: (0644/-rw-r--r--)  Uid: ( 1000/ michelc)   Gid: ( 1000/ gradual)
-Access: 2022-09-05 23:49:49.929200758 +0200
-Modify: 2022-09-05 23:49:49.921200607 +0200
-Change: 2022-09-05 23:49:49.921200607 +0200
- Birth: 2022-05-19 21:51:11.306829727 +0200
-SOL price: 32.08828500388652 USD
-BTC price: 19740.6322212246 USD
-ETH price: 1595.9953663336642 USD
-USD price: .03116402138284674321 SOL
-BTC price: 615.19748465315695648120 SOL
-[master 4f500b9] price on 2022-09-05 @ 23:55: 615.19748465315695648120 SOL
- Author: Merrill S. Norkaitis <mnorkaitis@hltm.ml>
- 2 files changed, 2 insertions(+)
-To github.com:PurpleZone/NFTs.git
-   652845a..4f500b9  master -> master
+Access: 2022-09-18 19:00:11.205241488 +0200
+Modify: 2022-09-18 19:00:11.005241480 +0200
+Change: 2022-09-18 19:00:11.005241480 +0200
+ Birth: 2022-05-20 19:00:01.395054984 +0200
+find: ‘./repo/keybase/fairTools/.cpan/build/Try-Tiny-0.30-0/lib/Try’: Permission denied
+find: ‘./repo/keybase/fairTools/.cpan/build/Try-Tiny-0.30-0/xt/release’: Permission denied
+find: ‘./repo/keybase/fairTools/.cpan/build/Try-Tiny-0.30-0/xt/author’: Permission denied
+find: ‘./repo/keybase/fairTools/.cpan/build/Try-Tiny-0.30-0/t/lib’: Permission denied
+find: ‘./docks/old-gitea/data/ssh’: Permission denied
+find: ‘./docks/gitea/data/ssh’: Permission denied
+/home/michelc/repo/github.com/gc-bank/tokens/prices/priceBTC.sh: 27: json_xs: not found
+/home/michelc/repo/github.com/gc-bank/tokens/prices/priceBTC.sh: 28: json_xs: not found
+/home/michelc/repo/github.com/gc-bank/tokens/prices/priceBTC.sh: 29: json_xs: not found
+SOL price: USD
+BTC price: USD
+ETH price: USD
+(standard_in) 2: syntax error
+USD price: SOL
+/home/michelc/repo/github.com/gc-bank/tokens/prices/priceBTC.sh: 36: json_xs: not found
+(standard_in) 2: syntax error
+BTC price: SOL
+(standard_in) 1: syntax error
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git

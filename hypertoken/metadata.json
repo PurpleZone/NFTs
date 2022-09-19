@@ -1,0 +1,24 @@
+{
+   "attributes" : [
+      {
+         "trait_type" : "website",
+         "value" : "https://phenomxhealth.com"
+      },
+      {
+         "trait_type" : "PNG file",
+         "value" : "https://purpleZone.github.io/NFTs/hypertoken/token.png"
+      },
+      {
+         "trait_type" : "mutable key",
+         "value" :" QmUmhuMXECWMwoWhwmvYdUu6TRzjz7dsvS7ervmQhMzcuc"
+      }
+   ],
+   "decimals" : "3",
+   "image" : "https://purpleZone.github.io/NFTs/hypertoken/token.svg",
+   "mint" : "FXWa4bznHjwqvDE3FmsLKVQz1BpQC22qnw2DKRbQdyhE",
+   "mintAuthority" : "6NvHFsKtPZ2GETwYKiJVXk9h9ShxMYwThp3xMXYCvjZq",
+   "name" : "Hyper Token",
+   "symbol" : ".",
+   "updateAuthority" : "6NvHFsKtPZ2GETwYKiJVXk9h9ShxMYwThp3xMXYCvjZq",
+   "uri" : "https://purpleZone.github.io/NFTs/hypertoken"
+}
