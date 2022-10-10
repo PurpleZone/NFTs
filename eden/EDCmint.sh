@@ -14,9 +14,8 @@ tokenid=E6ScSUwK7ZV4ZuvVaYVHQGby93uKs9WUtpwngZjAjCKA
 key=6NvHFsKtPZ2GETwYKiJVXk9h9ShxMYwThp3xMXYCvjZq
 mintauth=6NvHFsKtPZ2GETwYKiJVXk9h9ShxMYwThp3xMXYCvjZq
 
-
-keypair=/keybase/private/$USER/SOLkeys/$key.json
-mintpair=/keybase/private/$USER/SOLkeys/$mintauth.json
+keypair=$HOME/keybase/SOLkeys/$key.json
+mintpair=$HOME/keybase/SOLkeys/$mintauth.json
 
 cluster=devnet
 solana config set -k $keypair
